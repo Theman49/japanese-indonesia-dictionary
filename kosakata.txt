@@ -1,0 +1,947 @@
+Japanese	Indonesia
+=========================
+------------ OTHER -------------
+osu		menekan
+sentaku		mencuci, laundry
+yasui		murah
+benri		praktis
+pasokon		komputer, laptop
+nichiyoubi	minggu
+getsuyoubi	senin
+kayoubi		selasa
+suiyoubi	rabu
+mokuyoubi	kamis
+kinyoubi	jumat
+doyoubi		sabtu
+hatarakimasu	bekerja
+
+
+
+
+------------- Bab 2  ------------
+watashi		saya, aku
+anata		kamu, anda
+namae		nama
+anohito		orang itu
+anokata		orang itu(sopan)
+~san		sdr ~ (sufix untuk menyebut nama dengan sopan)
+nihon		jepang
+nippon		jepang
+kankoku		korea
+chuugoku	china, cina
+
+hajimemashite	perkenalkan (diucapkan saat membuka perkenalan diri)
+~chan		*pengganti ~san untuk anak-anak
+~jin		*sufiks untuk menyatakan kewarganegaraan
+sensei		guru, dosen (tidak dipakai untuk orang pertama)
+kyoushi		guru, dosen
+mondai		soal 
+shitsumon	pertanyaan
+kotae		jawaban
+
+gakusei		pelajar, siswa
+daigakusei	mahasiswa
+kaishain	karyawan perusahaan
+shain		karyawan perusahaan (disertai nama perusahaan)
+hai		iya
+iie		tidak, bukan
+renshuu		latihan
+shukudai	pekerjaan rumah
+
+ginkouin	pegawai bank
+ginkou		bank
+byouin		rumah sakit
+isha		dokter
+gakkou		sekolah
+daigaku		universitas
+arigatou*gozaimasu	terima kasih
+sumimasen	permisi (minta izin), maaf
+
+kenkyuusha	peneliti
+dare		siapa
+donata		siapa (sopan)
+hajimemasu	mari kita mulai
+jhughou		pelajaran, kelas
+shitsureidesuka	maaf, permisi (untuk menanyakan hal pribadi)
+~kara kimashita	[saya] datang dari ~
+doitsu		jerman
+tai		thailand
+
+ohayou[gozaimasu]	selamat pagi
+konnichiha	selamat siang, selamat sore (baca : konnichiwa)
+konbanha	selamat malam (baca : konbanwa)
+oyasuminasai	selamat tidur
+onegaishimasu	tolong, mohon
+indoneshia	indonesia
+amerika		amerika
+~sai		~tahun (umur)
+nansai		umur berapa
+oikutsu		umur berapa (sopan)
+igirisu		inggris
+singapo-ru	singapura
+[douzo]*yoroshiku*[onegaishimasu] 	salam kenal (diucapkan saat menutup perkenalan)
+kochiraha ~san desu	orang ini adalah ... (nama)
+
+ichi		satu, 1
+ni		dua, 2
+san		tiga, 3
+shi		empat, 4
+yon		empat, 4
+go		lima, 5
+roku		enam, 6
+nana		tujuh, 7
+shichi		tujuh, 7
+hachi		delapan, 8
+kyuu		sembilan, 9
+jyuu		sepuluh, 10
+ni jyuu		dua puluh, 20
+go jyuu go	lima puluh lima, 55
+
+issai		1 tahun
+nisai		2 tahun
+hassai		8 tahun
+hatachi		20 tahun
+ni jyuu san sai	23 tahun
+
+
+
+
+
+
+
+------------- Bab 3  ------------
+kore		ini (dekat pembicara)
+sore		itu (dekat lawan bicara)
+are		itu (jauh dari pembicara dan lawan bicara)
+dore		mana?
+
+hon		buku
+shinbun		koran
+meishi		kartu nama
+anou		eee, anu, maaf (ungkapan ragu ketika ingin memulai pembicaraan)
+jisho		kamus
+kamera		kamera
+pasokon		personal komputer, laptop, pc
+kuruma		mobil
+techou		buku agenda
+ka-do		kartu
+nan		apa?
+nani		apa?
+
+enpitsu		pensil
+bo-rupen	bolpen, bolpoin
+sha-pupenshiru	pensil mekanik
+tokei		jam
+sou		begitu, iya, itu benar
+soudesuka	oh, begitu ya
+chigaimasu	salah, bukan, tidak
+douzo		silahkan (saat menawarkan barang)
+
+eigo		bahasa inggris
+nihongo		bahasa jepang
+~go		bahasa~
+kagi		kunci
+zasshi		majalah
+kasa		payung
+korekara, osewani narimasu	mulai sekarang, mohon bimbingannya
+
+kaban		tas
+terebi		televisi
+sumaho		smartphone, hp
+suma-tofon	smartphone, hp
+baiku		sepeda motor
+tsukue		meja
+isu		kursi
+[o]miyage	oleh-oleh
+kochirakoso [douzo] yoroshiku [onegaishimasu]	balasan untuk yoroshiku onegaishimasu
+
+# [kosoado + no] diikuti kata benda #
+kono		~ini
+sono		~itu (dekat)
+ano		~itu (jauh)
+dono		~mana
+no-to		buku catatan, note (setelapak tangan)
+okashi		camilan, makanan manis
+chokore-to	cokelat
+ko-hi-		kopi
+ocha		teh
+
+
+
+
+
+
+
+
+
+------------- Bab 4  ------------
+koko		sini
+soko		situ (dekat)
+asoko		sana (jauh)
+doko		dimana?
+kyoushitsu	ruang kelas
+shokudou	kantin, ruang makan, rumah makan
+jimusho		kantor
+kaigishitsu	ruang rapat
+
+kochira		sini (sopan)
+sochira		situ (sopan)
+achira		sana (sopan)
+dochira		mana (sopan)
+uketsuke	meja informasi, resepsionis
+robi-		lobi, ruang tunggu
+heya		kamar
+toire		toilet, wc, kamar kecil
+otearai		toilet (sopan)
+
+kaidan		tangga
+erebe-ta-	elevator, lift
+esukare-ta-	eskalator
+resutoran	restoran
+jidouhanbaiki	mesin jual otomatis, vanding machine
+denwa		telepon
+[o]kuni		negara
+uchi		rumah
+sumimasen	maaf, permisi
+
+kutsu		sepatu
+nekutai		dasi
+fuku		baju, pakaian
+wain		wine, anggur
+uriba		tempat penjualan
+chika		bawah tanah, basement
+~kai		lantai~, tingkat~
+~gai		lantai~, tingkat~
+ikkai		lantai satu, lantai 1
+nikai		lantai 2
+nangai		lantai berapa
+doumo		terima kasih (santai)
+
+itaria		italia
+suwisu		swiss
+furansu		perancis, france
+omocha		mainan
+jakaruta	jakarta
+bankoku		bangkok
+berurin		berlin
+shin oosaka	shin-oosaka
+bunbougu	alat tulis, stationery
+depa-to		toserba, mall
+keshouhin	kosmetik, makeup
+
+~en		yen
+ikura		berapa
+hyaku		~ratus, seratus, 100
+nihyaku		dua ratus, 200
+sanbyaku	tiga ratus, 300
+roppyaku	enam ratus, 600
+happayku	delapan ratus, 800
+sen		~ribu, seribu, 1000
+ni sen		dua ribu, 2000
+sanzen		tiga ribu, 3000
+man		~puluh ribu, sepuluh ribu, 10000
+ichiman gosen	lima belas ribu, 15000
+irasshaimase	selamat datang, welcome
+[~wo]misete kudasai	tolong perlihatkan ~
+[~wo]kudasai	minta~, tolong berikan [saya]~
+ja		baiklah, kalau begitu
+
+
+
+
+
+
+
+------------- Bab 5  ------------
+ima		sekarang
+~ji		jam~
+~fun		menit~
+~pun		menit~
+ichiji		jam 1
+niji		jam 2
+yoji		jam 4
+shichiji	jam 7
+kuji		jam 9
+ippun		menit 1
+nifun		menit 2
+sanpun		menit 3
+yonpun		menit 4
+gofun		menit 5
+roppun		menit 6
+nanafun		menit 7
+happun		menit 8
+kyuufun		menit 9
+jippun		menit 10
+juppun		menit 10
+nijyuu nanafun	menit 27
+han		setengah (waktu)
+shichiji han	7.30, tujuh lewat tiga puluh menit, setengah delapan
+nanji		jam berapa
+nanpun		berapa menit
+gozen		AM (sebelum jam 12 siang, 00.00-11.59)
+gogo		PM (setelah jam 12 siang, 12.00-23.59)
+
+getsuyoubi	hari senin
+kayoubi		hari selasa
+suiyoubi	hari rabu
+mokuyoubi	hari kamis
+kinyoubi	hari jumat
+doyoubi		hari sabtu
+nichiyoubi	hari minggu
+asa		pagi
+hiru		siang
+
+~kara		dari~
+~made		sampai~
+yuugata		sore
+ban		malam
+maiasa		setiap pagi
+maiban		setiap malam
+mainichi	setiap hari
+okimasu		bangun
+nemasu		tidur
+
+ashita		besok
+asatte		lusa
+kesa		tadi pagi
+konban		malam ini, nanti malam
+depa-to		toserba, mall
+ginkou		bank
+yuubinkyoku	kantor pos
+toshokan	perpustakaan, library
+bijutsukan	gedung kesenian
+
+hatarakimasu	bekerja
+yasumimasu	beristirahat, berlibur (KK)
+benkyoushimasu	belajar
+owarimasu	selesai
+yasumi		istirahat, cuti, libur (KB)
+hiruyasumi	istirahat siang
+kyou		hari ini
+kinou		kemarin
+ototoi		kemarin lusa, dua hari yang lalu
+
+rondon		london
+shiken		ujian, test
+kaigi		rapat (~wo shimasu : melakukan rapat)
+eiga		film
+bangou		nomor
+nanban		nomor berapa
+sochira		disitu
+taihen		berat, sulit
+~to~		~ dan ~ (digunakan untuk menyambung kata benda)
+
+
+
+
+
+
+
+
+------------- Bab 6  ------------
+ikimasu		pergi
+kimasu		datang
+kaerimasu	pulang
+gakkou		sekolah
+su-pa-		pasar swalayan, supermarket
+eki		stasiun
+senshuu		minggu lalu
+konshuu		minggu ini
+raishuu		minggu depan
+
+hikouki		pesawat terbang
+fune		kapal laut
+densha		kereta rel listrik
+chikatetsu	kereta bawah tanah
+sengetsu	bulan lalu
+kongetsu	bulan ini
+raigetsu	bulan depan
+
+shinkansen	shinkansen
+basu		bus
+takushi-	taksi
+jitensha	sepeda
+aruite		dengan berjalan kaki
+tanjoubi	ulang tahun
+kyonen		tahun lalu
+kotoshi		tahun ini
+rainen		tahun depan
+hito		orang
+tomodachi	teman
+kare		dia (laki-laki)
+kanojo		dia (perempuan)
+kazoku		keluarga
+hitoride	sendirian
+futsuu		biasa
+kyuukou		ekspress
+
+~nen		tahun~
+nannen		tahun berapa
+~gatsu		bulan~
+ichigatsu	bulan 1, januari
+shigatsu	bulan 4, april
+shichigatsu	bulan 7, juli
+kugatsu		bulan 9, september
+nangatsu	bulan apa?
+~nichi		~hari, tanggal~
+nannichi	tanggal berapa, berapa hari
+itsu		kapan?
+
+tsuitachi	tanggal 1
+futsuka		tanggal 2
+mikka		tanggal 3
+yokka		tanggal 4
+itsuka		tanggal 5
+muika		tanggal 6
+nanoka		tanggal 7
+yuuka		tanggal 8
+kokonoka	tanggal 9
+tooka		tanggal 10
+juuyokka	tanggal 14
+hatsuka		tanggal 20
+nijuuyokka	tanggal 24
+
+furi-ma-ketto	flea market, free market
+soudesune	ya betul, ya begitulah
+[doumo]arigatou gozaimashita	terima kasih [banyak]
+douitashimashite	sama-sama, you are welcome, my pleasure
+~bansen		peron nomor~, gerbong nomor~
+tsugino		selanjutnya
+tokkyou		super ekspres
+
+
+
+
+
+
+
+
+
+
+------------- Bab 7  ------------
+tabemasu	makan
+nomimasu	minum
+suimasu		menghisap
+mimasu		melihat, menonton
+kikimasu	mendengar
+yomimasu	membaca
+kakimasu	menulis
+kakimasu	menggambar
+kaimasu		membeli
+torimasu	mengambil
+aimasu		bertemu
+shimasu		melakukan, mengerjakan, berbuat
+tenisu		tenis
+
+sakka-		sepak bola, soccer, football
+[o]hanami	menikmati bunga sakura
+tabako		rokok
+tegami		surat
+repo-to		laporan
+shashin		foto
+bideo		video
+nani		apa?
+nan		apa?
+gohan		nasi
+asagohan	sarapan
+hirugohan	makan siang
+bangohan	makan malam
+
+pan		roti
+tamago		telur
+niku		daging
+sakana		ikan
+yasai		sayur
+kudamono	buah-buahan
+mizu		air
+ocha		teh, teh jepang
+koucha		teh merah
+miruku		susu
+gyuunyuu	susu
+ju-su		jus
+bi-ru		bir
+[o]sake		sake, minuman keras
+
+mise		toko
+niwa		halaman (rumah)
+mekishiko	meksiko
+isshoni		bersama-sama
+chotto		sebentar, sedikit
+itsumo		selalu
+tokidoki	kadang-kadang, sometimes
+korekara	setelah itu, kemudian
+ee		iya (santai)
+iidesune	bagus ya, baik ya
+nandesuka	apa?
+ja, mata[ashita]	ok, sampai jumpa[besok]
+wakarimashita	mengerti, baik
+
+
+
+
+
+
+
+
+
+
+------------- Bab 8  ------------
+kirimasu	menggunting, memotong
+okurimasu	mengirim, mengantar
+agemasu		memberikan
+moraimasu	mendapatkan, menerima
+kashimasu	meminjamkan, menyewakan
+karimasu	meminjam, menyewa
+oshiemasu	mengajar
+naraimasu	belajar (dengan tutor)
+denwa wo kakemasu	menelepon
+te		tangan
+hashi		sumpit
+supu-n		sendok
+
+naifu		pisau, knife
+fo-ku		garpu, fork
+hasami		gunting
+ke-tai		HP
+me-ru		email
+nengajou	kartu tahun baru
+panchi		pelubang kertas
+hocchikisu	staples, stapler
+serote-pu	selotip
+keshigomu	penghapus karet, eraser
+
+kami		kertas
+hana		bunga
+puresento	present, hadiah, kado
+nimotsu		barang
+okane		uang
+chichi		bapak, ayah
+haha		ibu
+okaasan		ibu orang lain (panggilan untuk ibu kandung sendiri)
+otousan		ayah orang lain (panggilan untuk ibu kandung sendiri)
+kurisumasu	natal, christmas
+kippu		karcis, tiket
+shatsu		kemeja, kaos
+mou		sudah
+mada		belum
+korekara	mulai sekarang
+~sutekidesune	~bagus ya
+irasshai	selamat datang
+douzo oagari kudasai	silahkan masuk
+shitsureishimasu	permisi
+[~ha]ikagadesuka	bagaimana [~]
+itadakimasu	selamat makan
+gochisousama[deshita]	terima kasih atas hidangannya
+
+
+
+
+
+
+
+
+------------- Bab 9  ------------
+hansamu[na]	ganteng, tampan, gagah
+kirei[na]	bersih, cantik
+shizuka[na]	tenang, sunyi
+nigiyaka[na]	ramai
+yuumei[na]	terkenal
+shinsetsu[na]	baik hati (tidak digunakan untuk keluarga sendiri)
+genki[na]	sehat walafiat
+hima[na]	senggang, luang, waktu luang
+benri[na]	praktis
+suteki[na]	bagus
+ookii		besar
+chiisai		kecil
+atarashii	baru
+furui		lama, tua
+ii		baik, bagus
+yoi		baik, bagus
+warui		buruk, jelek
+atsui		panas
+samui		dingin (cuaca)
+tsumetai	dingin (benda)
+
+muzukashii	sulit, susah
+yasashii	mudah, gampang
+takai		mahal, tinggi
+yasui		murah
+hikui		rendah
+omoshiroi	menarik
+oishii		enak
+amari		kurang begitu~, tidak begitu~ (diikuti kalimat negatif)
+totemo		sangat, ~sekali (digunakan sebelum kata sifat)
+isogashii	sibuk
+tanoshii	senang
+shiroi		putih
+kuroi		hitam
+aoi		biru
+akai		merah
+midori		hijau
+sakura		sakura
+yama		gunung
+machi		kota
+tabemono	makanan
+nomimono	minuman
+
+tokoro		tempat
+ryou		asrama
+seikatsu	kehidupan
+[o]shigoto	pekerjaan
+dou		bagaimana?
+donna~		yang bagaimana~
+soshite		kemudian, dan (digunakan untuk menyambung kalimat)
+~ga		~, tetapi~ (di tengah kalimat)
+ogenki desuka	apa kabar?
+~mou ippai ikagadesuka	mau tambah~ secangkir lagi?
+mou~ desu[ne]	sudah ~[ya]
+sorosoro shitsureishimasu	maaf, saya mau pamit dulu
+iie		sama-sama
+mata irashatte kudasai	silahkan datang lagi
+shanhai		sanghai
+kinkakuji	kuil kinkakuji
+
+
+
+
+
+
+
+
+
+------------- Bab 10  ------------
+wakarimasu	mengerti
+arimasu		ada, mempunyai (benda mati)
+suki[na]	suka, gemar
+kirai[na]	tidak suka, benci
+jouzu[na]	pintar, pandai 
+heta[na]	tidak pandai, tidak pintar
+nomimono	minuman
+ryouri		masakan
+supo-tsu	sport, olahraga
+yakyuu		bisbol, baseball
+
+dansu		dansa
+ryokou		tamasya, trip, travel
+ongaku		musik
+uta		lagu
+kurasikku	klasik 
+jazzu		jaz
+karaoke		karaoke
+e		gambar
+kabuki		kabuki (salah satu drama tradisional jepang)
+ji		huruf
+goshujin	suami (digunakan untuk menyebutkan suami orang lain)
+
+otto		suami
+shujin		suami
+okusan		istri (digunakan untuk menyebutkan suami orang lain)
+tsuma		istri
+kanai		istri
+kodomo		anak
+yoku		dengan baik
+daitai		kira-kira, kurang lebih
+takusan		banyak
+sukoshi		sedikit
+zenzen		sama sekali (diikuti kalimat negatif)
+hayaku		dengan cepat
+
+jikan		waktu, jam
+gurai		kurang lebih, sekitar, kira-kira
+~kara		karena~, sebab~
+kanji		kanji
+hiragana	hiragana
+katakana	katakana
+ro-maji		romaji, huruf latin
+omakai okane	uang kecil, uang receh
+chiketto	tiket
+youji		urusan
+yakusoku	janji
+
+arubaito	kerja paruh waktu, kerja sampingan, part time
+doushite	kenapa?
+kashite kudasai	tolong pinjamkan
+iidesuyo	boleh
+zannendesu[ga]	sayang sekali
+aa		oh, aa
+isshoni ikagadesuka	bagaimana kalau bersama-sama?
+~ha chotto	maaf ya, saya tidak bisa~
+damedesuka	tidak bisa ya?, tidak boleh ya?
+matakondo onegaishimasu	maaf, lain kalisaja
+
+
+
+
+
+
+
+
+
+
+
+------------- Bab 19  ------------
+~me-toru	meter
+genkin		uang tunai
+syumi		hobi, gemar
+nikki		catatan harian, diary
+oinori		doa (~wo shimasu : berdoa)
+furusato	kampung halaman
+kacyou		kepala seksi
+bucyou		kepala bagian
+jyacyou		direktur utama
+
+doubutsu	hewan, binatang
+uma		kuda
+mukashi		jaman dahulu
+inta-netto	internet
+tokuni		terutama, khususnya
+hee		betul ya?, benar ya?, masa!
+omoshiroi	menarik (sorewa omoshiroi desune : itu menarik ya)
+nakanaka	jarang, tidak mudah(diikuti bentuk negatif)
+hontoudesuka	benar?, betul?
+zehi		benar-benar, mesti
+
+
+
+------------- Bab 20 ------------
+noborimasu	naik
+tomarimasu	menginap(di hotel)
+soujishimasu	membersihkan
+sentakushimasu	mencuci pakaian
+narimasu	menjadi
+nemui		mengantuk
+tsuyoi		kuat
+yowai		lemah
+toukyou		tokyo
+
+rensyuu		latihan (~wo shimasu : berlatih)
+gorufu		golf (~wo shimasu : bermain golf)
+sumou		sumo (~wo shimasu : bermain sumo)
+ocha		teh
+hi		hari
+cyoushi		kondisi
+ichido		sekali
+ichidomo	satu kalipun, tidak sama sekali(diikuti bentuk negatif)
+
+dandan		berangsur-angsur, lama-kelamaan
+mousugu		tidak lama lagi
+okagesamade	atas berkat(ucapan yang digunakan ketika menyatakan rasa terima kasih atas bantuan atau kebaikan hati dari orang)
+demo		tetapi
+kanpai		toast, bersulang
+daietto		diet (~wo shimasu : berdiet)
+muri[na]	paksa, berlebihan, tidak mungkin
+kara da ni ii	baik untuk tubuh
+
+
+
+
+
+
+
+------------- Bab 21 ------------
+irimasu		memerlukan
+shirabemasu	memeriksa, meneliti, mengecek
+syuurishimasu	memperbaiki
+boku		aku (laki-laki, informal dari watashi)
+kimi		kamu (informal dari anata)
+~kun		saudara ~ (informal dari san, sering digunakan untuk nama anak laki-laki)
+un		ya (informal dari はい)
+uun		tidak, bukan (informal dari いいえ)
+kotoba		kata, bahasa
+kimono		kimono (pakaian tradisional jepang)
+biza		VISA
+hajime		awal, mula-mula
+owari		akhir
+kocchi		sini (informal kochira)
+sochhi		situ (informal sochira)
+acchi		sana (informal achira)
+docchi		mana (informal dochira)
+minnade		kita semua, kita sama-sama
+~kedo		~tetapi (informal dari が)
+onakagaippaidesu	sudah kenyang
+yokattara	kalau mau, kalau suka
+iroiro		macam-macam
+
+
+
+
+
+------------- Bab 22 ------------
+omoimasu        mengira
+iimasu		mengatakan
+kachimasu	menang
+makemasu	kalah
+arimasu		ada, diadakan
+yakunitachimasu	berguna, bermanfaat
+ugokimasu	pindah, bergerak
+yamemasu	berhenti
+kiwotsukemasu	berwaspada, berhati-hati
+ryougakusimasu	studi di luar negeri
+muda[na]	sia-sia. Tidak berguna
+uben[na]	tidak praktis
+sugoi		hebat
+hontou		betul
+
+uso		bohong
+jidousya	mobil
+koutsuu		lalu lintas
+bukka		harga barang
+bousou		siaran, pengumuman
+nyuusu		berita
+shinjimasu	mempercayai
+anime		animasi jepang
+manga		manga, komik
+dezain		desain
+yume		mimpi
+tensai		genius
+shiai		pertandingan (~ wo shimasu : bertanding)
+iken		pendapat
+hanashi		cerita (~ wo shimasu : bercerita, berbicara)
+
+chikyuu		bumi
+tsuki		bulan
+kaguyahime	cerita legenda jepang
+bokushi		pastur, pendeta
+saikin		akhir-akhir ini
+tabun		mungkin, barangkali
+kitto		pasti
+hontouni	betul-betul
+sonnani		tidak begitu (diikuti bentuk negatif)
+~nitsuite	tentang ~, mengenai ~
+hisashiburidesune 	sudah lama tidak bertemu ya
+~demonomimasenka	Bagaimana kalau kita minum ~, atau apa saja?
+mochiron	tentang saja
+moukaeranaito	saya harus pulang
+
+
+
+
+
+
+
+
+------------- Bab 23 ------------
+kimasu		memakai(kemeja, atasan)
+hakimasu	memakai(sepatu, celana)
+kaburimasu	memakai(topi)
+kakemasu	memakai(kacamata)
+shimasu		memakai(dasi)
+umaremasu	lahir
+
+watashitachi	kami, kita
+ko-to		mantel
+seetaa		sweater, baju hangat
+suutsu		pakaian setelan
+boushi		topi
+megane		kacamata
+keeki		kue
+[o]bentou	bekal
+robotto		robot
+yuumoa		humor
+tsugou		kondisi
+yoku		seringkali
+eeto		itu...
+omedetou[gozaimasu]	selamat(digunakan untuk hari ulang tahun, upacara pernikahan, dan tahun baru, dll)
+osagashidesuka	mencari apa?
+dewa		kalau begitu
+kochira		ini (formal これ)
+
+yachin		biaya sewa rumah
+dainingukicchin	ruang makan dengan dapur
+washitsu	kamar ala jepang
+oshiire		lemari dinding ala jepang
+futon		selimut dan kasur berisi kapas ala jepang
+
+
+
+
+
+
+
+
+
+
+
+------------- Bab 24 ------------
+kikimasu	bertanya (sensei ni kikimasu : bertanya kepada guru)
+mawashimasu	memutar
+hikimasu	tarik
+kaemasu		mengubah
+sawarimasu	menyentuh
+demasu		keluar
+otsuri		kembalian
+arukimasu	berjalan kaki
+watarimasu	menyeberang
+magarimasu	belok
+sabishii	sepi
+mura		desa
+hashi		jembatan
+[o]yu		air panas
+oto		suara, bunyi
+saizu		ukuran
+
+kosyou		kerusakan (~shimasu : rusak)
+michi		jalan
+kousaten	perempatan
+shingou		lampu lalu lintas
+kado		sudut
+hashi		jembatan
+cyuusyajyou	tempat parkir
+tatemono	gedung
+nankaimo	berkali-kali
+~me		yang ke~ (mengungkapkan urutan)
+
+
+
+
+
+
+------------- Bab 25 ------------
+kuremasu	memberikan (orang lain)
+naoshimasu	mengoreksi
+tsureteikimasu	membawa, mengajak pergi
+tsuretekimasu	membawa datang, mengajak datang
+okurimasu	mengantar (hito wo okurimasu : mengantar orang)
+syoukaishimasu	memperkenalkan
+annaishimasu	mengantarkan
+setsumeishimasu	menjelaskan, menerangkan
+
+ojiisan		kakek
+ojiichan	kakek
+obaasan		nenek
+obaachan	nenek
+jyunbi		persiapan (~wo shimasu : mempersiapkan)
+hikkoshi	pindah rumah (~wo shimasu : pindah, memindahkan)
+okashi		camilan, snack
+hoomusutei	homestay
+zenbu		semua
+jibunde		dengan sendiri
+hokani		selain, yang lain
+
+
+
+
+
+
+
+
+
+------------- Bab 26 ------------
+kangaemasu	berpikir
+tsukimasu	tiba, sampai
+toshi wo torimasu	berumur, lanjut usia
+tarimasu	cukup
+inaka		desa, kampung halaman
+chansu		kesempatan
+oku		ratus juta
+moshi[-tara]	kalau
+
+imi		arti, makna
+moshimoshi	halo (saat menelepon)
+tenkin		pindah ke kantor cabang lain atau jabatan lain
+koto		hal (~no koto : hal ~)
+hima[na]	waktu luang
+ganbarimasu	berusaha, bekerja keras
+douzo ogenkide	semoga sehat selalu (digunakan ketika perpisahan dalam jangka waktu lama)
+iroiro osewaninarimashita	terima kasih banyak atas bantuan anda yang telah anda berikan
+

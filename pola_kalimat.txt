@@ -1,0 +1,347 @@
++++++++++++++++++++++++ Bab 19  +++++++++++++++++++++++
+======= Saya Bisa Melakukan ==========
+----------------------------------------------
+| Bentuk Kamus + が できます (bisa ...) |
+----------------------------------------------
+
+=> ミラ さん は 日本語 が できます
+
+
+
+
+
+======= Hobi saya adalah  ==========
+---------------------------------------------------------
+| 私 の 趣味 は + KB 			+	 です	|
+| 		+ KK Bentuk Kamus こと 	+		|
+---------------------------------------------------------
+
+=> 私 の 趣味 は 音楽 です
+
+
+
+
+
+
+======= Sebelum ... Melakukan ...  ==========
+-----------------------------------------
+| KB の 		 +  		|
+| KK1 Bentuk Kamus 	 + 前 に, KK2	|
+| KKet bil(jangka waktu) +		|
+-----------------------------------------
+
+=> 日本 へ 来る 前に、 日本ご を 勉強しますた
+
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++ Bab 20 +++++++++++++++++++++++
+========== KK Group 1 ========
+masu kei	|	ta kei
+==============================
+ki		|	ita
+ikimasu		|	*itta
+gi		|	ida
+mi		|	nda
+bi		|	nda
+ri		|	tta
+i		|	tta
+chi		|	tta
+shi		|	shita
+
+
+
+========== KK Group 2 ========
+masu kei	|	ta kei
+==============================
+nemasu		|	neta
+tabemasu	|	tabeta
+
+
+
+========== KK Group 3 ========
+masu kei	|	ta kei
+==============================
+shimasu		|	shita
+kimasu		|	kita
+
+
+
+
+
+======= Pernah Melakukan  ==========
+--------------------------------------------------
+| KK Bentuk た + こと が あります。(Pernah ...)  |
+--------------------------------------------------
+
+=> 日本 に 行った こと が あります。
+
+
+
+======= Melakukan Beberapa Aktivitas  ==========
+--------------------------------------------
+| KK1 Bentuk  たり, KK2 Bentuk たりします  |
+--------------------------------------------
+Perbedaan dengan penggunaan てadalah て untuk kegiatan yang urut dan cenderung aktivitas rutin.
+
+=> 日 曜日 は テニス を したり、 映画 を 見たりします。 
+=> 日 曜日 は テニス を したり、 映画 を 見たりしますた。(Bentuk Lampau) 
+
+
+======= Telah Menjadi  ==========
+-------------------------------------------------
+| KS い (~い) -> ~く 	 +  			|
+| KS な [な]  -> ~に 	 + なりますた		|
+| KB に			 + (telah menjadi...)	|
+-------------------------------------------------
+
+=> 元気 に なりますた。
+
+
+
+
+
+
+
++++++++++++++++++++++++ Bab 21 +++++++++++++++++++++++
+丁寧(teinei) 形 = formal
+普通(futsu) 形 = nonformal
+ます(masu) 形 = masu di coret
+
+	   Kata Kerja
+==================================
+teinei 形	|	futsuu 形
+==================================
+kakimasu	|	kaku
+kakimasen	|	kakanai
+kakimashita	|	kaita
+kakimasendeshita|	kakanakatta
+
+arimasu		|	aru
+arimasen	|	*nai
+arimashita	|	atta
+arimasendeshita	|	nakatta
+
+
+	   Kata Sifat
+==================================
+teinei 形	|	futsuu 形
+==================================
+KS いです	|	KS い	
+KS なです	|	KS なだ
+kireidesu	|	kiraida
+kireijyaarimasen|	kireijyanai
+kireideshita	|	kireidatta
+~arimasendeshita|	~nakatta
+
+
+	   Kata Benda
+==================================
+teinei 形	|	futsuu 形
+==================================
+ameです		|	ameだ	
+~jyaarimasen	|	~jyanai
+ameですた	|	ameだった
+~arimasendeshita|	~nakatta
+
+
+
+
+
++++++++++++++++++++++++ Bab 22 +++++++++++++++++++++++
+
+======== Menurut Saya ========
+------------------------------------------------------
+| Bentuk Biasa と 思います(omoimasu) (saya kira ...) |
+------------------------------------------------------
+isi pikiran dan keputusan ditunjukan dengan partikel と.
+
+contoh :
+Menyatakan dugaan	
+明日 雨 が 降ると 思います		
+besok sepertinya turun hujan
+
+jika menanyakan pendapat tidak menggunakan と.
+... どう 思いますか 。
+jika menyatakan pendapat setuju dapat menggunakan
+私 も sou  思います
+
+
+
+
+
+======== Menyampaikan perkataan orang lain ========
+--------------------------------------------------------------
+| Bentuk biasa + と 言います (iimasu) (mengatakan bahwa ...) |
+--------------------------------------------------------------
+
+
+
+
+
+
+
+======== Benar Kan  ========
+-----------------------------------------
+| Bentuk biasa + でしょう (..., bukan?) |
+-----------------------------------------
+
+
+
+
+
+
+
+
++++++++++++++++++++++++ Bab 23 +++++++++++++++++++++++
+============== Mendeskripsikan Benda dengan Menggunakan Kata Kerja ==========
+----------------------------------------
+| S + は + KK(普通 形) + KB + を + KK  |
+----------------------------------------
+
+=> 彼 は 話す人 を 聞きます。
+
+
+
+
+
+
+============== Melakukan Kegiatan pada Benda Sebagai Objek  ==========
+-------------------------------------------
+| S + は + KK(普通 形) + KB + が + KK/KS  |
+-------------------------------------------
+
+=> この 人 は みんな が 話す 英語 が わかりません。
+
+
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++ Bab 24 +++++++++++++++++++++++
+============== Saat Melakukan Sesuatu  ==========
+--------------------------------------------
+| KK Kamus	+  			   |
+| KK ない 	+  			   |
+| KS ~ い	+ とき、~ (kalimat pokok)  |
+| KS な		+ (Ketika ... )		   |
+| KB の		+  			   |
+----------------------------------------
+とき menunjukkan waktu ketika terjadinya keadaan dan aksi atau fenomena yang dinyatakan dalam kalimat pokok yang menyusul
+
+=>  
+
+
+
+
+
+============== Saat Akan Terjadi Sesuatu  ==========
+------------------------------------
+| KK Kamus + と, ~(kalimat pokok)  |
+------------------------------------
+
+=> この ボタン を 押すと、 お釣り が 出ます。
+=> これを 回すと、 音 が 大き くなります。
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++ Bab 25 +++++++++++++++++++++++
+============== Saat Diberi oleh Orang Lain  ==========
+--------------
+| ~ くれます |
+--------------
+
+=> 砂糖 さん は 妹 に お菓子 を くれました。
+
+
+
+
+
+
+
+============== Memberi, Diberi, dan Menerima Tindakan  ==========
+------------------------------------------
+|		+ あげます    |
+| KK Bentuk て	+ もらいます  |
+| 		+ くれます    |
+------------------------------------------
+
+=> 私 は 木村 さん に 本 を 貸して あげます。
+=> 私 は 山田 さん に 図書館 の 電話 番号 を 教えて もらいました。
+=> 母 は 私 に セーター を 送って くれました。
+
+
+
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++ Bab 26 +++++++++++++++++++++++
+============== Bila  ==========
+belum ada rencana :
+-----------------------------------------------------------
+| Bentuk Biasa Lampau + ら, ~(kalimat pokok) (Kalau ...)  |
+-----------------------------------------------------------
+~ら disini berfungsi sebagai kata sambung untuk persyaratan. Jika ... Maka ...
+
+
+=> お金があったら、 旅行します。
+=> 時間がなかったら、テレビを見ません。
+
+
+
+
+
+
+
+sudah ada rencana :
+------------------------------------------------
+| KK たら, ~(kalimat pokok) (Kalau Sudah ...)  |
+------------------------------------------------
+
+=> １０時 に なったら、 でかけましょう。
+
+
+
+
+
+
+
+============== Meskipun  ==========
+----------------------------------------------------
+| KK て			+  			   |
+| KK ない -> なくて 	+  			   |
+| KS ~ い -> くて	+ も、~ (kalimat pokok)	   |
+| KS な   -> ~で	+ (Walaupun ... )	   |
+| KB で 		+  			   |
+----------------------------------------------------
+ini adalah kalimat berasumsi, yang disusul dengan bentuk ても(kalimat pokok), menunjukkan bahwa kegiatan yang dilakukan bisa diduga atau tidak terduga.
+
+=> 雨 が 振っても、洗濯 します。
+=> 安くても、 私わグループ 旅行 が 嫌いです。
+=> 日曜日でも、 働きます。
