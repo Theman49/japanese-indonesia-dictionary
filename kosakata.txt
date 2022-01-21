@@ -674,12 +674,477 @@ matakondo onegaishimasu	maaf, lain kalisaja
 
 
 
+------------- Bab 11  ------------
+arimasu		ada (benda mati)
+imasu		ada (benda hidup)
+iroiro[na]	berbagai
+otokonohito	orang laki-laki
+onanohito	orang perempuan
+otokonoko	anak laki-laki
+onanoko		anak perempuan
+inu		anjing
+neko		kucing
+panda		panda
+zou		gajah
+ki		pohon
+
+mono		barang
+denchi		baterai
+hako		kotak
+suicchi		tombol, saklar
+reizouko	kulkas, lemari es
+te-buru		meja makan
+beddo		bed, tempat tidur
+tana		lemari
+doa		pintu
+mado		jendela
+posuto		kotak surat, kotak pos
+biru		gedung
+
+konbini		toko 24 jam, swalayan, indomaret
+kouen		taman (publik, umum)
+kissaten	kedai kopi, coffee shop
+~ya		toko~
+kutsuya		toko sepatu
+noriba		tempat naik
+ue		atas
+shita		bawah
+mae		depan
+ushiro		belakang
+migi		kanan
+hidari		kiri
+
+naka		dalam, di dalam
+soto		luar
+tonari		sebelah
+chikaku		dekat
+aida		antara
+ken		prefektur, provinsi
+[doumo]sumimasen	terima kasih [banyak]
+nanpura-	kecap ikan
+ko-na-		tempat, bagian penjualan
+ichiban shita	paling bawah
+toukyoudizuni-rando	tokyo disneyland
+~ya~[nado]	~dan ~[dan lain-lain]
+
+
+
+
+
+
+
+
+
+------------- Bab 12  ------------
+[ga]imasu	ada, mempunyai (kepemilikan)
+[ni]imasu	ada (keberadaan)
+kakarimasu	memakan, perlu (digunakan untuk waktu dan uang)
+[wo]yasumimasu	tidak masuk~
+ringo		apel
+ikutsu		berapa (banyak)
+hitori		seorang
+futari		dua orang
+~nin		~orang
+
+hitotsu		1 buah/benda
+futatsu		2 buah/benda
+mittsu		3 buah/benda
+yottsu		4 buah/benda
+itsutsu		5 buah/benda
+muttsu		6 buah/benda
+nanatsu		7 buah/benda
+yattsu		8 buah/benda
+kokonotsu	9 buah/benda
+
+~dai		~ buah (kata bantu bilangan untuk menghitung mesin dan mobil)
+nidai		2 buah (mesin)
+~mai		~lembar, ~helai
+~kai		~kali
+ikkai		1 kali
+rokkai		6 kali
+hakkai		8 kali
+hachikai	8 kali
+jukkai		10 kali
+
+mikan		jeruk
+sandoicchi	sandwich
+kare-[raisu]	[nasi dan] kare
+aisukuri-mu	es krim
+kitte		perangko
+hagaki		kartu pos
+
+fuutou		amplop
+ryoushin	orang tua
+kyoudai		saudara, saudari
+ani		kakak laki-laki (untuk kakak sendiri)
+onisan		kakak laki-laki (untuk kakak orang lain)
+ane		kakak perempuan (untuk kakak sendiri)
+onesan		kakak perempuan (untuk kakak orang lain)
+otouto		adik laki-laki (adik sendiri)
+otoutosan	adik laki-laki (adik orang lain)
+imouto		adik perempuan (adik sendiri)
+imoutosan	adik perempuan (adik orang lain)
+gaikoku		luar negeri, negara asing
+ryuugakusei	pelajar asing
+kurasu		kelas
+~jikan		~jam
+~shuukan	~minggu
+isshuukan	satu minggu, 1 minggu
+~kagetsu	~bulan
+ikkagetsu[kan]	[selama] 1 bulan
+rokkagetsu[kan]	[selama] 6 bulan
+hakkagetsu[kan]	[selama] 8 bulan
+hachigetsu[kan]	[selama] 8 bulan
+jukkagetsu[kan]	[selama] 10 bulan
+
+~nen		~tahun
+~gurai		kira-kira~
+donokurai	berapa lama
+zenbude		semua
+minna		semuanya (orang)
+~dake		hanya, ~saja
+kashikomarimashita	baik (bentuk sopan wakarimashita)
+ii[o]tenkidesune	cuacanya bagus ya
+funabin		pos laut, pelabuhan
+
+odekakedesuka	mau keluar?
+chotto ~made	ke~ sebentar
+itterasshai	hati-hati
+ittekimasu	saya berangkat
+koukuubin	pos udara, bandara
+eame-ru		pos udara, bandara
+onegaishimasu	tolong
+o-sutoraria	australia
+
+
+
+
+
+
+
+
+------------- Bab 13  ------------
+kantan[na]	mudah, gampang
+chikai		dekat
+tooi		jauh
+hayai		cepat (早い:cepat dalam waktu; 速い:cepat dalam kecepatan benda)
+osoi		lambat
+ooi		banyak (benda hidup)
+sukunai		sedikit (benda hidup)
+atatakai	hangat (暖かい:suhu ruangan; 温かい:benda)
+suzushii	sejuk
+
+amai		manis
+karai		pedas
+omoi		berat
+karui		ringan
+[~ga]ii		lebih baik, baik
+kisetsu		musim
+haru		musim semi
+natsu		musim panas
+aki		musim gugur
+
+fuyu		musim dingin
+tenki		cuaca
+ame		hujan
+yuki		salju
+kumori		mendung
+hoteru		hotel
+kuukou		bandara
+umi		laut
+
+sekai		dunia
+pa-ti-		pesta
+[o]matsuri	perayaan
+sukiyaki	sukiyaki (makanan daging sapi dan sayur dalam panci)
+sashimi		sashimi (ikan mentah yang dipotong tipis)
+[o]sushi	sushi (nasi dicampur cuka yang didalamnya diberi ikan mentah)
+tenpura		tempura (gorangan sari laut dan sayur yang dipakai tepung teriku)
+buta niku	daging babi
+tori niku	daging ayam
+
+ichiban		paling
+ikebana		seni merangkai bunga
+dochira		yang mana
+dochiramo	dua-duanya, yang mana juga
+zutto		jauh lebih, terus terusan
+momiji		maple, daun yang berubah warna menjadi merah
+gyuuniku	daging sapi
+remon		lemon
+hajimete	untuk pertama kali
+
+tadaima		saya kembali, saya pulang
+okaerinasai	selamat datang kembali, sudah pulang ya
+waa, sugoihitodesune	wah, banyak orang
+tsukaremashita	lelah
+gionmatsuri	perayaan Gion
+honkon		hongkong
+shingapo-ru	singapura
+~yori		daripada~
+
+
+
+
+
+
+
+
+
+
+------------- Bab 14  ------------
+asobimasu	bermain
+oyogimasu	berenang
+mukaemasu	menjemput (mukae ni ikimasu : pergi menjemput)
+tsukaremasu	lelah (jika keadaan lelah : tsukaremshita)
+kekkonshimasu	menikah
+[~ga]hoshii	ingin~, mau~
+
+shokujishimasu	makan (tanpa objek)
+sanposhimasu	berjalan-jalan (~wo sanposhimasu : berjalan-jalan di~)
+taihen[na]	berat, susah
+kaimonoshimasu	berbelanja
+hiroi		luas
+semai		sempit
+pu-ru		kolam renang, pool
+
+kawa		sungai
+bijutsu		seni, art
+tsuri		pancing (tsuri wo shimasu : memancing)
+suki-		ski (suki- wo shimasu : bermain ski)
+shuumatsu	akhir pekan, weekend
+[o]shougatsu	tahun baru, new year
+
+~goro		sekitar~, kira-kira
+nanika		sesuatu
+dokoka		suatu tempat
+nodoga kawakimasu	haus (jika keadaan haus : nodoga kawakimashita)
+onakaga sukimasu	lapar (jika keadaan lapar : onakaga sukimashita)
+soushimashou	ya, mari (digunakan untuk menyetujui aksi yang disarankan)
+
+gochuumonha	mau pesan apa? (baca gochuumonwa)
+teishoku	menu paket
+gyuudon		gyudon
+[shoushou]omachidekudasai	tunggu[sebentar]
+~de gozaimasu	(bentuk halus dari desu)
+betsubetsuni	sendiri-sendiri, masing-masing
+
+
+
+
+
+
+
+
+
+------------- Bab 15  ------------
+tsukemasu[2]	menyalakan, memasang, menghidupkan
+keshimasu[1]	mematikan, memadamkan
+akemasu[2]	membuka
+shimemasu[2]	menutup
+isogimasu[1]	buru-buru
+machimasu[1]	menunggu
+mochimasu[1]	membawa
+torimasu[1]	mengambil
+tetsudaimasu[1]	membantu
+yobimasu[1]	memanggil
+hanashimasu[1]	berbicara
+tsukaimasu[1]	menggunakan
+tomemasu[2]	menghentikan, memarkir
+misemasu[2]	memperlihatkan
+oshiemasu[2]	memberitahukan
+suwarimasu[1]	duduk
+
+tachimasu[1]	berdiri
+hairimasu[1]	masuk
+demasu[2]	keluar
+furimasu[1]	turun (ame ga furimasu, yuki ga furimasu)
+kopi-shimasu[3]	fotokopi
+denki		listrik, lampu
+eakon		AC
+pasupo-to	pasport, paspor
+namae		nama
+jyuusho		alamat, address
+chizu		peta, map
+shio		garam
+satou		gula
+mondai		masalah, soal
+kotae		jawaban
+
+yomikata	cara membaca
+~kata		cara~
+massugu		lurus
+yukkuri		pelan-pelan
+sugu		segera, langsung
+mata		lagi
+atode		nanti
+mousukoshi	sedikit lagi
+mou~		~lagi
+saa		mari (digunakan untuk mengajak atau menyuruh sesuatu kepada lawan bicara)
+are?		ah? (digunakan ketika heran, kaget,  atau merasa aneh)
+shingou		lampu lalu lintas
+magarimasu	belok
+korede onegaishimasu	minta dengan ini
+otsuri		uang kembalian
+
+
+
+
+
+
+
+
+
+------------- Bab 16  ------------
+okimasu		meletakkan, menaruh
+tsukurimasu	membuat, membangun, memproduksi (作ります:dengan tangan; 造ります:dengan mesin)
+urimasu		menjual
+shirimasu	mengetahui, mengenal
+sumimasu	tinggal
+
+kenkyuushimasu	meneliti
+shiryou		data, bahan
+katarogu	katalog
+jikokuhyou	jadwal
+fuku		baju, pakaian
+seihin		produk
+
+sofuto		software, perangkat lunak
+denshijisho	kamus elektronik
+keizai		ekonomi
+shakusho	kantor walikota
+koukou		SMA, senior high school
+kaisha		dokter gigi
+
+
+
+
+
+
+
+
+------------- Bab 17  ------------
+norimasu	naik (kendaraan)
+orimasu		turun (kendaraan)
+norikaemasu	ganti, pindah (kendaraan)
+abimasu		mandi (shawa- wo abimasu : mandi)
+iremasu		memasukkan
+dashimasu	mengeluarkan, menyerahkan, mengirim
+oroshimasu	mengeluarkan, mengambil (uang)
+hairimasu	masuk
+daigaku		universitas
+demasu		keluar, turun
+oshimasu	menekan
+nomimasu	minum
+hajimemasu	mulai
+kengakushimasu	mengunjungi
+denwashimasu	menelepon
+wakai		muda
+nagai		panjang
+mijikai		pendek
+
+akarui		terang
+kurai		gelap
+karada		badan
+atama		kepala
+kami		rambut
+kao		muka
+me		mata
+
+mimi		telinga
+hana		hidung
+kuchi		mulut
+ha		gigi
+onaka		perut
+ashi		kaki
+se		punggung
+sa-bisu		pelayanan
+jogingu		jogging, lari pelan-pelan
+shawa-		shower
+
+midori		hijau
+[o]tera		wihara
+jinsha		kuil shinto
+~ban		nomor~
+douyatte	dengan cara bagaimana? (dipakai untuk menanyakan cara pergi ke suatu tempat atau cara untuk melakukan sesuatu)
+dono~		~yang mana (mengungkapkan lebih dari tiga barang/waktu) (dengan KB)
+dore		mana (mengungkapkan lebih dari tiga barang)(tanpa KB)
+sugoidesune	hebat ya
+[iie,]madamadadesu	tidak, belum memuaskan (digunakan untuk merendah)
+ohikidashimasuka	mau menarik uang?
+mazu		pertama-tama, terlebih dahulu
+tsugini		kemudian, selanjutnya
+kyasshuka-do	kartu ATM
+anshoubangou	PIN
+kingaku		jumlah uang
+kakunin		cek
+botan		tombol, button
+
+
+
+
+
+
+
+
+
+------------- Bab 18  ------------
+oboemasu	mengingat, menghafal
+wasuremasu	lupa
+nakushimasu	kehilangan
+haraimasu	membayar
+kaeshimasu	mengembalikan
+dekakemasu	keluar, pergi, berangkat
+nugimasu	buka (baju, sepatu, dll)
+motteikimasu	membawa pergi
+mottekimasu	membawa datang
+shinpaishimasu	mengkhawatirkan
+zangyoushimasu	lembur
+shucchoushimasu	dinas
+nomimasu	minum (air, obat, dll)
+hairimasu	masuk
+taisetsu[na]	penting, bernilai, berharga
+daijoubu[na]	tidak apa-apa, tidak masalah
+
+abunai		bahaya
+kinen		dilarang merokok
+hokenjo		kartu asuransi
+kenkou		kesehatan
+netsu		demam
+hyouki		sakit
+kusuri		obat
+[o]furo		mandi, kamar mandi, bathup
+
+uwagi		baju, jaket
+shitagi		pakaian dalam
+doushimashitaka	kenapa?, ada masalah apa?
+nodo		kerongkongan, tenggorokan
+[~ga]itaidesu	~sakit
+kaze		demam, masuk angin
+sorekara	dan, kemudian
+odaijini	semoga lekas sembuh, get well soon
+
+
+
+
+
+
 
 
 
 
 
 ------------- Bab 19  ------------
+dekimasu	dapat, bisa
+araimasu	mencuci
+hikimasu	bermain (alat musik)
+utaimasu	bernyanyi
+atsumemasu	mengumpulkan
+sutemasu	membuang
+kaemasu		mengganti, menukar
+untenshimasu	menyetir, mengendarai
+yoyakushimasu	memesan
+piano		piano
+
 ~me-toru	meter
 genkin		uang tunai
 syumi		hobi, gemar
