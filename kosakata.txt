@@ -1,43 +1,26 @@
 Japanese	Indonesia
 =========================
------------- OTHER -------------
-osu		menekan
-sentaku		mencuci, laundry
-yasui		murah
-benri		praktis
-pasokon		komputer, laptop
-nichiyoubi	minggu
-getsuyoubi	senin
-kayoubi		selasa
-suiyoubi	rabu
-mokuyoubi	kamis
-kinyoubi	jumat
-doyoubi		sabtu
-hatarakimasu	bekerja
-
-
-
 
 ------------- Bab 2  ------------
-watashi		saya, aku
-anata		kamu, anda
-namae		nama
-anohito		orang itu
-anokata		orang itu(sopan)
-~san		sdr ~ (sufix untuk menyebut nama dengan sopan)
-nihon		jepang
-nippon		jepang
-kankoku		korea
-chuugoku	china, cina
+私		saya, aku
+あなた		kamu, anda
+名前		なまえ		nama
+あの人		あのひと	orang itu
+あの方		あのかた	orang itu(sopan)
+~さん	sdr ~ (sufix untuk menyebut nama dengan sopan)
+日本		にほん		jepang
+にっぽん	jepang
+韓国		かんこく	korea
+中国		ちゅうごく	china, cina
 
-hajimemashite	perkenalkan (diucapkan saat membuka perkenalan diri)
-~chan		*pengganti ~san untuk anak-anak
-~jin		*sufiks untuk menyatakan kewarganegaraan
-sensei		guru, dosen (tidak dipakai untuk orang pertama)
-kyoushi		guru, dosen
-mondai		soal 
-shitsumon	pertanyaan
-kotae		jawaban
+はじめまして	perkenalkan (diucapkan saat membuka perkenalan diri)
+~ちゃん		*pengganti ~san untuk anak-anak
+~人		~じん		*sufiks untuk menyatakan kewarganegaraan
+先生		せんせい	guru, dosen (tidak dipakai untuk orang pertama)
+教師		きょうしkyoushi		guru, dosen
+問題		もんだい		soal 
+質問		しつもん		pertanyaan
+答え		こたえ			jawaban
 
 gakusei		pelajar, siswa
 daigakusei	mahasiswa
@@ -1375,7 +1358,7 @@ ojiisan		kakek
 ojiichan	kakek
 obaasan		nenek
 obaachan	nenek
-jyunbi		persiapan (~wo shimasu : mempersiapkan)
+junbi		persiapan (~wo shimasu : mempersiapkan)
 hikkoshi	pindah rumah (~wo shimasu : pindah, memindahkan)
 okashi		camilan, snack
 hoomusutei	homestay
@@ -1410,3 +1393,277 @@ ganbarimasu	berusaha, bekerja keras
 douzo ogenkide	semoga sehat selalu (digunakan ketika perpisahan dalam jangka waktu lama)
 iroiro osewaninarimashita	terima kasih banyak atas bantuan anda yang telah anda berikan
 
+
+
+
+------------------------------ N4 -------------------------------------
+------------- Bab 1 ------------
+運動会		うんどうかい	lomba olahraga
+場所		ばしょ		tempat
+財布		さいふ		dompet
+平日		へいじつ	hari kerja
+送れます	おくれます	terlambat
+拾います	ひろいます	mengambil
+~べん				dialek~
+今度		こんど		lain kali, kali ini
+直接		ちょくせつ	langsung
+何でも		なんでも	apa saja
+横		よこ		sebelah, samping
+燃えるゴミ	もえるごみ	sampah organik
+	
+瓶		びん		botol
+缶		かん		kaleng
+~会社		~かいしゃ	perusahaan (ABC会社(がいしゃ)
+宇宙		うちゅう	angkasa
+怖い		こわい		takut
+~様		~さま		kata hormat dari ~さん
+
+見ます/診ます		みます		melihat/memeriksa
+探します/捜します	さがします	mencari(keinginan)/mencari(tidak terlihat)
+間に合います[時間に~]	まにあいます[じかんに~]		sempat(pada waktu)
+やります	melakukan
+連絡します	れんらくします	menghubungi
+気分がいい	きぶんがいい	rasa enak, segar
+気分悪い	きぶんわるい	rasa tidak enak
+盆踊り		ぼんおどり	tarian Bon
+フリーマーケット		pasar loak
+ボランテiア	sukarelawan (volunteer)
+ごみ		sampah
+国会議事堂	こっかいぎじどう	gedung parlemen(nasional)
+ずいぶん	sangat, amat
+いつでも	kapanpun
+どこでも	dimanapun
+誰でも		だれでも	siapapun
+こんな~		~ yang begini
+そんな~		~ yang begitu
+あんな~		~ yang begitu
+片付きます[荷物が~]	かたづきます[にもつが~]		beres/tertata rapi[barang~]
+かたづけます[荷物を~]	かたづけます[にもつを~]		membereskan[barang~]
+置き場		おきば		tempat meletakkan (sesuatu)
+ガス		gas
+宇宙船		うちゅうせん	wahana antariksa, pesawat luar angkasa
+宇宙飛行士	うちゅうひこうし	astronot
+違います	ちがいます	tidak benar, berbeda
+
+
+
+
+------------- Bab 2 ------------
+飼います	かいます	untuk memelihara
+走ります	はしります	berlari
+見えます	みえます	terlihat
+聞こえます	きこえます	terdengar
+開きます	ひらきます	untuk membuka
+心配		しんぱい	khawatir
+
+花火		はなび		kembang api
+道具		どうぐ		alat
+家		いえ		rumah
+教室		きょうしつ	ruang kelas
+方		ほう		sisi
+後		あと		setelah
+
+他に		ほかに		lainnya
+家具		かぐ		perabotan
+本棚		ほんだな	rak buku
+炊けます	たけます	membangung
+素晴らしい	すばらしい	hebat
+子供たち	こどもたち	anak-anak
+
+できます[道が～]	できます[みちが～]	[jalan] dibuat
+ペット		hewan peliharaan
+鳥		とり		burung
+声		こえ		suara
+クリーニング	laundry
+マンション	apartemen
+キッチン	dapur
+パーティールーム	ruang pesta
+～後		～ご		setelah~, sesudah~
+～しか		hanya~(dipakai dengan kata bentuk negatif)
+ポケット	kantong
+空		そら		langit
+飛びます	とびます	terbang
+昔		むかし		dulu, dahulu
+自分		じぶん		diri sendiri
+将来		しょうらい	masa depan
+
+
+
+------------- Bab 3 ------------
+熱心		ねっしん	tekun
+景色		けしき		pemandangan
+美容院		びよういん	salon kecantikan
+台所		だいどころ	dapur
+経験		けいけん	pengalaman
+人気		にんき		populer
+
+値段		ねだん		harga
+給料		きゅうりょう	gaji
+番組		ばんぐみ	acara TV
+歌手		かしゅ		penyanyi
+小説		しょうせつ	novel
+息子		むすこ		anak laki-laki
+
+会話		かいわ		percakapan
+お知らせ	おしらせ	pemberitahuan/pengumuman
+参加します	さんかします	mengikuti
+体育館		たいいくかん	gedung olahraga
+無料		むりょう	gratis, cuma-cuma
+誘います	さそいます	mengajak
+
+売れます[パンが～]	うれます[パンが～]	[roti] terjual
+踊ります	おどります	menari
+噛みます	かみます	mengunyah, menggigit
+選びます	えらびます	memilih
+通います[大学に～]	かよいます[だいがくに～]	pergi [ke universitas]
+メモします	mencatat
+まじめ[な]	serius
+偉い		えらい		hebat
+ちょうどいい	pas, tepat, cocok
+力		ちから		kekuatan, tenaga
+色		いろ		warna
+味		あじ		rasa
+ガム		がむ		permen karet
+品物		しなもの	barang
+ボーナス	bonus
+ゲーム		game
+ドラマ		drama, sinetron
+小説家		しょうせつか	novelis
+～家		～か		aliran~
+～機		～き		mesin~
+娘		むすめ		anak perempuan
+息子さん	むすこさん	putra (di keluarga orang lain)
+娘さん		むすめさん	putri (di keluarga orang lain)
+しばらく	sebentar, sementara
+たいてい	kebanyakan
+それに		selain itu, dan juga
+それで		dan, lalu
+実は		じつは		sebenarnya
+うーん		mmm...(bergumam)
+[ちょっと]お願いがあるんですが。	[ちょっと]おねがいがあるんですが。	minta sesuatu [sebentar]
+イベント	event, acara
+
+
+
+
+------------- Bab 4 ------------
+止まる		とまる		untuk berhenti
+違い		ちがい		perbedaan
+落とす		おとす		untuk menjatuhkan
+かかる		memakan waktu
+取る		とる		mengambil
+皿		さら		piring
+
+袋		ふくろ		kantong plastik, kantong kertas
+書類		しょるい	dokumen
+枝		えだ		cabang
+駅員		えきいん	petugas stasiun
+交番		こうばん	kantor polisi
+返事		へんじ		menjawab
+忘れ物		わすれもの	barang yang ketinggalan
+確か		たしか		hal tentu
+覚え		おぼえ		ingatan
+開く		ひらく		membuka
+閉める		しめる		menutup
+
+壊れます	こわれます	rusak
+割れます	われます	pecah
+折れます	おれます	patah
+破れます	やぶれます	sobek
+汚れます	よごれます	menjadi kotor
+付きます	つきます	terpasang
+外れます	はずれます	terlepas
+間違えます	まちがえます	salah, bersalah
+拭きます	ふきます	mengelap
+取り替えます	とりかえます	mengganti
+おちゃわん	mangkuk
+コップ		gelas
+ガラス		glass, jendela
+スピーチ	speech, pidato
+~側		～がわ		sebelah~
+～辺		～へん		sekitar~
+網棚		あみだな	rak bagasi
+地震		じしん		gempa bumi
+壁		かべ		tembok, dinding
+針		はり		jarum
+指します	さします	menunjuk
+倒れます	たおれます	tumbang, jatuh
+燃えます	もえます	terbakar
+西		にし		barat
+駅前		えきまえ	depan stasiun
+レポーター	reporter
+
+
+------------- Bab 5 ------------
+掛けます	かけます	menggantungkan
+飾ります	かざります	menghiasi
+予習		よしゅう	belajar persiapan
+復習		ふくしゅう	belajar pengulangan
+授業		じゅぎょう	kelas, pelajaran
+講義		こうぎ		kuliah
+人形		にんぎょう	boneka
+花瓶		かびん		vas bunga
+鏡		かがみ		cermin
+予定表		よていひょう	jadwal acara
+玄関		げんかん	teras, ruang depan
+廊下		ろうか		koridor
+
+隅		すみ		pojok, sudut
+壁		かべ		dinding
+池		いけ		kolam
+非状袋		ひじょうぶくろ	kantong darurat
+真ん中		まんなか	tengah
+周り		まわり		sekitar
+
+はります	menempelkan
+並べます	ならべます	menata
+植えます	うえます	menanam
+戻します	もどします	mengembalikan
+まとめます	merangkum
+決めます	きめます	menentukan
+そのままにします		membiarkan begitu
+ミーティング	meeting, rapat
+ガイドブック	buku panduan, buku petunjuk
+カレンダー	kalender
+ポスター	poster
+ゴミ箱		ごみばこ	tempat sampah
+引き出し	ひきだし	laci
+元の所		もとのところ	tempat semula
+リュック	ransel
+非常時		ひじょうじ	saat darurat
+生活します	せいかつします	hidup
+懐中電灯	かいちゅうでんとう	senter
+～とか、～とか		~atau~
+丸い		まるい		bulat
+ある～		suatu~
+夢を見ます	ゆめをみます	bermimpi
+うれしい	senang
+嫌[な]		いや[な]	tidak suka
+すると		kemudian
+目を覚めます	めをさめます	bangun, sadar
+
+
+
+
+
+
+
+
+
+
+
+------------ OTHER -------------
+osu		menekan
+sentaku		mencuci, laundry
+yasui		murah
+benri		praktis
+pasokon		komputer, laptop
+nichiyoubi	minggu
+getsuyoubi	senin
+kayoubi		selasa
+suiyoubi	rabu
+mokuyoubi	kamis
+kinyoubi	jumat
+doyoubi		sabtu
+hatarakimasu	bekerja
+omatsuri        festival
