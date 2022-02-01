@@ -17,580 +17,523 @@ Japanese	Indonesia
 ~ちゃん		*pengganti ~san untuk anak-anak
 ~人		~じん		*sufiks untuk menyatakan kewarganegaraan
 先生		せんせい	guru, dosen (tidak dipakai untuk orang pertama)
-教師		きょうしkyoushi		guru, dosen
-問題		もんだい		soal 
-質問		しつもん		pertanyaan
-答え		こたえ			jawaban
+教師		きょうし	guru, dosen
+問題		もんだい	soal 
+質問		しつもん	pertanyaan
+答え		こたえ		jawaban
 
-gakusei		pelajar, siswa
-daigakusei	mahasiswa
-kaishain	karyawan perusahaan
-shain		karyawan perusahaan (disertai nama perusahaan)
-hai		iya
-iie		tidak, bukan
-renshuu		latihan
-shukudai	pekerjaan rumah
+学生		がくせい	pelajar, siswa
+大学生		だいがくせい	mahasiswa
+会社員		かいしゃいん	karyawan perusahaan
+社員		しゃいん		karyawan perusahaan (disertai nama perusahaan)
+はい		iya
+いいえ		tidak, bukan
+練習		れんしゅう	latihan
+宿題		しゅくだい	pekerjaan rumah
 
-ginkouin	pegawai bank
-ginkou		bank
-byouin		rumah sakit
-isha		dokter
-gakkou		sekolah
-daigaku		universitas
-arigatou*gozaimasu	terima kasih
-sumimasen	permisi (minta izin), maaf
+銀行員		ぎんこういん	pegawai bank
+銀行		ぎんこう	bank
+病院		びょういん	rumah sakit
+医者		いしゃ		dokter
+学校		がっこう	sekolah
+大学		だいがく	universitas
+ありがとうございます		terima kasih
+すみません	permisi (minta izin), maaf
 
-kenkyuusha	peneliti
-dare		siapa
-donata		siapa (sopan)
-hajimemasu	mari kita mulai
-jhughou		pelajaran, kelas
-shitsureidesuka	maaf, permisi (untuk menanyakan hal pribadi)
-~kara kimashita	[saya] datang dari ~
-doitsu		jerman
-tai		thailand
+研究者		けんきゅうしゃ	peneliti
+誰		だれ		siapa
+どなた		siapa (sopan)
+はじめます	mari kita mulai
+授業		じゅぎょう	pelajaran, kelas
+失礼ですか	しつれいですか	maaf, permisi (untuk menanyakan hal pribadi)
+～からきました	[saya] datang dari ~
+ドイツ		jerman
+タイ		thailand
 
-ohayou[gozaimasu]	selamat pagi
-konnichiha	selamat siang, selamat sore (baca : konnichiwa)
-konbanha	selamat malam (baca : konbanwa)
-oyasuminasai	selamat tidur
-onegaishimasu	tolong, mohon
-indoneshia	indonesia
-amerika		amerika
-~sai		~tahun (umur)
-nansai		umur berapa
-oikutsu		umur berapa (sopan)
-igirisu		inggris
-singapo-ru	singapura
-[douzo]*yoroshiku*[onegaishimasu] 	salam kenal (diucapkan saat menutup perkenalan)
-kochiraha ~san desu	orang ini adalah ... (nama)
+おはよう[ございます]		selamat pagi
+こんにちは	selamat siang, selamat sore (baca : konnichiwa)
+こんばんは	selamat malam (baca : konbanwa)
+おやすみなさい	selamat tidur
+お願いします	おねがいします	tolong, mohon
+インドネシア	indonesia
+アメリカ	amerika
+～歳		～さい		~tahun (umur)
+何歳		なんさい	umur berapa
+お幾つ		おいくつ	umur berapa (sopan)
+イギリス	inggris
+シンガポール	singapura
+[どうぞ]よろしく[お願いします]	salam kenal(diucapkan saat menutup perkenalan)
+こちらは～さんです		orang ini adalah ... (nama)
 
-ichi		satu, 1
-ni		dua, 2
-san		tiga, 3
-shi		empat, 4
-yon		empat, 4
-go		lima, 5
-roku		enam, 6
-nana		tujuh, 7
-shichi		tujuh, 7
-hachi		delapan, 8
-kyuu		sembilan, 9
-jyuu		sepuluh, 10
-ni jyuu		dua puluh, 20
-go jyuu go	lima puluh lima, 55
+一		いち		satu, 1
+二		に		dua, 2
+三		さん		tiga, 3
+四		し/よん		empat, 4
+五		ご		lima, 5
+六		ろく		enam, 6
+七		なな/しち	tujuh, 7
+八		はち		delapan, 8
+九		きゅう		sembilan, 9
+十		じゅう		sepuluh, 10
+２０		にじゅう	dua puluh, 20
+５５		ごじゅうご	lima puluh lima, 55
 
-issai		1 tahun
-nisai		2 tahun
-hassai		8 tahun
-hatachi		20 tahun
-ni jyuu san sai	23 tahun
-
-
-
-
-
+１歳		いっさい	1 tahun
+２歳		にさい		2 tahun
+８歳		はっさい	8 tahun
+20歳		はたち		20 tahun
+23歳		にじゅうさんさい	23 tahun
 
 
 ------------- Bab 3  ------------
-kore		ini (dekat pembicara)
-sore		itu (dekat lawan bicara)
-are		itu (jauh dari pembicara dan lawan bicara)
-dore		mana?
+これ		ini (dekat pembicara)
+それ		itu (dekat lawan bicara)
+あれ		itu (jauh dari pembicara dan lawan bicara)
+どれ		mana?
 
-hon		buku
-shinbun		koran
-meishi		kartu nama
-anou		eee, anu, maaf (ungkapan ragu ketika ingin memulai pembicaraan)
-jisho		kamus
-kamera		kamera
-pasokon		personal komputer, laptop, pc
-kuruma		mobil
-techou		buku agenda
-ka-do		kartu
-nan		apa?
-nani		apa?
+本		ほん		buku
+新聞		しんぶん	koran
+名刺		めいし		kartu nama
+あのう		eee, anu, maaf (ungkapan ragu ketika ingin memulai pembicaraan)
+辞書		じしょ		kamus
+カメラ		kamera
+パソコン	personal komputer, laptop, pc
+車		くるま		mobil
+手帳		てちょう	buku agenda
+カード		kartu
+何		なに/なん	apa?
 
-enpitsu		pensil
-bo-rupen	bolpen, bolpoin
-sha-pupenshiru	pensil mekanik
-tokei		jam
-sou		begitu, iya, itu benar
-soudesuka	oh, begitu ya
-chigaimasu	salah, bukan, tidak
-douzo		silahkan (saat menawarkan barang)
+鉛筆		えんぴつ	pensil
+ボールペン	bolpen, bolpoin
+シャープペンシル		pensil mekanik
+時計		とけい		jam
+そう		begitu, iya, itu benar
+そうですか	oh, begitu ya
+違います	ちがいます	salah, bukan, tidak
+どうぞ		silahkan (saat menawarkan barang)
 
-eigo		bahasa inggris
-nihongo		bahasa jepang
-~go		bahasa~
-kagi		kunci
-zasshi		majalah
-kasa		payung
-korekara, osewani narimasu	mulai sekarang, mohon bimbingannya
+英語		えいご		bahasa inggris
+日本語		にほんご	bahasa jepang
+～語		～ご		bahasa~
+鍵		かぎ		kunci
+ザッシ		majalah
+傘		かさ		payung
+これから、お世話になります	これから、おせわになります	mulai sekarang, mohon bimbingannya
 
-kaban		tas
-terebi		televisi
-sumaho		smartphone, hp
-suma-tofon	smartphone, hp
-baiku		sepeda motor
-tsukue		meja
-isu		kursi
-[o]miyage	oleh-oleh
-kochirakoso [douzo] yoroshiku [onegaishimasu]	balasan untuk yoroshiku onegaishimasu
+かばん		tas
+テレビ		televisi
+スマホ		smartphone, hp
+スマートフォン	smartphone, hp
+バイク		sepeda motor
+机		つくえ		meja
+いす		kursi
+お土産		おみやげ	oleh-oleh
+こちらこそ[どうぞ]よろしく[お願いします]	balasan untuk yoroshiku onegaishimasu
 
-# [kosoado + no] diikuti kata benda #
-kono		~ini
-sono		~itu (dekat)
-ano		~itu (jauh)
-dono		~mana
-no-to		buku catatan, note (setelapak tangan)
-okashi		camilan, makanan manis
-chokore-to	cokelat
-ko-hi-		kopi
-ocha		teh
-
-
-
-
-
-
+# [こ/そ/あ/ど + の] diikuti kata benda #
+この		~ini
+その		~itu (dekat)
+あの		~itu (jauh)
+どの		~mana
+ノート		buku catatan, note (setelapak tangan)
+お菓子		おかし		amilan, makanan manis
+チョコレート	cokelat
+コーヒー	kopi
+お茶		おちゃ		teh
 
 
 
 ------------- Bab 4  ------------
-koko		sini
-soko		situ (dekat)
-asoko		sana (jauh)
-doko		dimana?
-kyoushitsu	ruang kelas
-shokudou	kantin, ruang makan, rumah makan
-jimusho		kantor
-kaigishitsu	ruang rapat
+ここ		sini
+そこ		situ (dekat)
+あそこ		sana (jauh)
+どこ		dimana?
+教室		きょうしつ	ruang kelas
+食堂		しょくどう	kantin, ruang makan, rumah makan
+事務所		じむしょ	kantor
+会議室		かいぎしつ	ruang rapat
 
-kochira		sini (sopan)
-sochira		situ (sopan)
-achira		sana (sopan)
-dochira		mana (sopan)
-uketsuke	meja informasi, resepsionis
-robi-		lobi, ruang tunggu
-heya		kamar
-toire		toilet, wc, kamar kecil
-otearai		toilet (sopan)
+こちら		sini (sopan)
+そちら		situ (sopan)
+あちら		sana (sopan)
+どちら		mana (sopan)
+受付		うけつけ	meja informasi, resepsionis
+ロビー		lobi, ruang tunggu
+部屋		へや		kamar
+トイレ		toilet, wc, kamar kecil
+おてあらい	toilet (sopan)
 
-kaidan		tangga
-erebe-ta-	elevator, lift
-esukare-ta-	eskalator
-resutoran	restoran
-jidouhanbaiki	mesin jual otomatis, vanding machine
-denwa		telepon
-[o]kuni		negara
-uchi		rumah
-sumimasen	maaf, permisi
+階段		かいだん	tangga
+エレベーター	elevator, lift
+エスカレーター	eskalator
+レストラン	restoran
+自動販売機	じどうはんばいき	mesin jual otomatis, vanding machine
+電話		でんわ		telepon
+お国		おくに		negara
+家		うち		rumah
+すみません	maaf, permisi
 
-kutsu		sepatu
-nekutai		dasi
-fuku		baju, pakaian
-wain		wine, anggur
-uriba		tempat penjualan
-chika		bawah tanah, basement
-~kai		lantai~, tingkat~
-~gai		lantai~, tingkat~
-ikkai		lantai satu, lantai 1
-nikai		lantai 2
-nangai		lantai berapa
-doumo		terima kasih (santai)
+靴		くつ		sepatu
+ネクタイ	dasi
+服		ふく		baju, pakaian
+ワイン		wine, anggur
+売り場		うりば		tempat penjualan
+地下		ちか		bawah tanah, basement
+～階		～かい/～がい	lantai~, tingkat~
+1階		いっかい	lantai satu, lantai 1
+2階		にかい		lantai 2
+何階		なんがい	lantai berapa
+どうも		terima kasih (santai)
 
-itaria		italia
-suwisu		swiss
-furansu		perancis, france
-omocha		mainan
-jakaruta	jakarta
-bankoku		bangkok
-berurin		berlin
-shin oosaka	shin-oosaka
-bunbougu	alat tulis, stationery
-depa-to		toserba, mall
-keshouhin	kosmetik, makeup
+イタリア	italia
+スウィス	swiss
+フランス	perancis, france
+玩具		おもちゃ	mainan
+ジャカルタ	jakarta
+バンコク	bangkok
+ベルリン	berlin
+新大阪		しんおおさか	shin-oosaka
+文房具		ぶんぼうぐ	alat tulis, stationery
+デパート	toserba, mall
+化粧品		けしょうひん	kosmetik, makeup
 
-~en		yen
-ikura		berapa
-hyaku		~ratus, seratus, 100
-nihyaku		dua ratus, 200
-sanbyaku	tiga ratus, 300
-roppyaku	enam ratus, 600
-happayku	delapan ratus, 800
-sen		~ribu, seribu, 1000
-ni sen		dua ribu, 2000
-sanzen		tiga ribu, 3000
-man		~puluh ribu, sepuluh ribu, 10000
-ichiman gosen	lima belas ribu, 15000
-irasshaimase	selamat datang, welcome
-[~wo]misete kudasai	tolong perlihatkan ~
-[~wo]kudasai	minta~, tolong berikan [saya]~
-ja		baiklah, kalau begitu
-
-
-
-
-
-
+～円		～えん		yen
+いくら		berapa
+百		ひゃく		~ratus, seratus, 100
+２百		にひゃく	dua ratus, 200
+３百		さんびゃく	tiga ratus, 300
+６百		ろっぴゃく	enam ratus, 600
+８百		はっぴゃく	delapan ratus, 800
+千		せん		~ribu, seribu, 1000
+２千		にせん		dua ribu, 2000
+３千		さんぜん	tiga ribu, 3000
+万		まん		~puluh ribu, sepuluh ribu, 10000
+１万５千	いちまんごせん	lima belas ribu, 15000
+いらっしゃいませ		selamat datang, welcome
+[～を]見せてください		tolong perlihatkan ~
+[～を]ください	minta~, tolong berikan [saya]~
+じゃ		baiklah, kalau begitu
 
 ------------- Bab 5  ------------
-ima		sekarang
-~ji		jam~
-~fun		menit~
-~pun		menit~
-ichiji		jam 1
-niji		jam 2
-yoji		jam 4
-shichiji	jam 7
-kuji		jam 9
-ippun		menit 1
-nifun		menit 2
-sanpun		menit 3
-yonpun		menit 4
-gofun		menit 5
-roppun		menit 6
-nanafun		menit 7
-happun		menit 8
-kyuufun		menit 9
-jippun		menit 10
-juppun		menit 10
-nijyuu nanafun	menit 27
-han		setengah (waktu)
-shichiji han	7.30, tujuh lewat tiga puluh menit, setengah delapan
-nanji		jam berapa
-nanpun		berapa menit
-gozen		AM (sebelum jam 12 siang, 00.00-11.59)
-gogo		PM (setelah jam 12 siang, 12.00-23.59)
+今		いま		sekarang
+～時		～じ		jam~
+～分		～ふん/～ぷん	menit~
+１時		いちじ		jam 1
+２時		にじ		jam 2
+４時		よじ		jam 4
+７時		しちじ		jam 7
+９時		くじ		jam 9
+１分		いっぷん	menit 1
+２分		にふん		menit 2
+３分		さんぷん	menit 3
+４分		よんぷん	menit 4
+５分		ごふん		menit 5
+６分		ろっぷん	menit 6
+７分		ななふん	menit 7
+８分		はっぷん	menit 8
+９分		きゅうふん	menit 9
+10分		じっぷん/じゅっぷん	menit 10
+２７分		にじゅうななふん	menit 27
+半		はん		setengah (waktu)
+７時半		しちじはん	7.30, tujuh lewat tiga puluh menit, setengah delapan
+何時		なんじ		jam berapa
+何分		なんぷん	berapa menit
+午前		ごぜん		AM (sebelum jam 12 siang, 00.00-11.59)
+午後		ごご		PM (setelah jam 12 siang, 12.00-23.59)
 
-getsuyoubi	hari senin
-kayoubi		hari selasa
-suiyoubi	hari rabu
-mokuyoubi	hari kamis
-kinyoubi	hari jumat
-doyoubi		hari sabtu
-nichiyoubi	hari minggu
-asa		pagi
-hiru		siang
+月曜日		げつようび	hari senin
+火曜日		かようび	hari selasa
+水曜日		すいようび	hari rabu
+木曜日		もくようび	hari kamis
+金曜日		きんようび	hari jumat
+土曜日		どようび	hari sabtu
+日曜日		にちようび	hari minggu
+朝		あさ		pagi
+昼		ひる		siang
 
-~kara		dari~
-~made		sampai~
-yuugata		sore
-ban		malam
-maiasa		setiap pagi
-maiban		setiap malam
-mainichi	setiap hari
-okimasu		bangun
-nemasu		tidur
+～から		dari~
+～まで		sampai~
+夕方		ゆうがた	sore
+晩		ばん		malam
+毎朝		まいあさ	setiap pagi
+毎晩		まいばん	setiap malam
+毎日		まいにち	setiap hari
+起きます	おきます	bangun
+寝ます		ねます		tidur
 
-ashita		besok
-asatte		lusa
-kesa		tadi pagi
-konban		malam ini, nanti malam
-depa-to		toserba, mall
-ginkou		bank
-yuubinkyoku	kantor pos
-toshokan	perpustakaan, library
-bijutsukan	gedung kesenian
+明日		あした		besok
+あさって	lusa
+今朝		けさ		tadi pagi
+今晩		こんばん	malam ini, nanti malam
+デパート	toserba, mall
+銀行		ぎんこう	bank
+郵便局		ゆうびんきょく	kantor pos
+図書館		としょかん	perpustakaan, library
+美術館		びじゅつかん	gedung kesenian
 
-hatarakimasu	bekerja
-yasumimasu	beristirahat, berlibur (KK)
-benkyoushimasu	belajar
-owarimasu	selesai
-yasumi		istirahat, cuti, libur (KB)
-hiruyasumi	istirahat siang
-kyou		hari ini
-kinou		kemarin
-ototoi		kemarin lusa, dua hari yang lalu
+働きます	はたらきます	bekerja
+休みます	やすみます	beristirahat, berlibur (KK)
+勉強します	べんきょうします	belajar
+終わります	おわります	selesai
+休み		やすみ		istirahat, cuti, libur (KB)
+昼休み		ひるやすみ	istirahat siang
+今日		きょう		hari ini
+昨日		きのう		kemarin
+おととい	kemarin lusa, dua hari yang lalu
 
-rondon		london
-shiken		ujian, test
-kaigi		rapat (~wo shimasu : melakukan rapat)
-eiga		film
-bangou		nomor
-nanban		nomor berapa
-sochira		disitu
-taihen		berat, sulit
-~to~		~ dan ~ (digunakan untuk menyambung kata benda)
-
-
-
-
-
-
+ロンドン	london
+試験		しけん		ujian, test
+会議		かいぎ		rapat (~wo shimasu : melakukan rapat)
+映画		えいが		film
+番号		ばんごう	nomor
+何番		なんばん	nomor berapa
+そちら		disitu
+大変		たいへん	berat, sulit
+～と～		~ dan ~ (digunakan untuk menyambung kata benda)
 
 
 ------------- Bab 6  ------------
-ikimasu		pergi
-kimasu		datang
-kaerimasu	pulang
-gakkou		sekolah
-su-pa-		pasar swalayan, supermarket
-eki		stasiun
-senshuu		minggu lalu
-konshuu		minggu ini
-raishuu		minggu depan
+行きます	いきます	pergi
+来ます		きます		datang
+帰ります	かえります	pulang
+学校		がっこう	sekolah
+スーパー	pasar swalayan, supermarket
+駅		えき		stasiun
+先週		せんしゅう	minggu lalu
+今週		こんしゅう	minggu ini
+来週		らいしゅう	minggu depan
 
-hikouki		pesawat terbang
-fune		kapal laut
-densha		kereta rel listrik
-chikatetsu	kereta bawah tanah
-sengetsu	bulan lalu
-kongetsu	bulan ini
-raigetsu	bulan depan
+飛行機		ひこうき	pesawat terbang
+舟		ふね		kapal laut
+電車		でんしゃ	kereta rel listrik
+地下鉄		ちかてつ	kereta bawah tanah
+先月		せんげつ	bulan lalu
+今月		こんげつ	bulan ini
+来月		らいげつ	bulan depan
 
-shinkansen	shinkansen
-basu		bus
-takushi-	taksi
-jitensha	sepeda
-aruite		dengan berjalan kaki
-tanjoubi	ulang tahun
-kyonen		tahun lalu
-kotoshi		tahun ini
-rainen		tahun depan
-hito		orang
-tomodachi	teman
-kare		dia (laki-laki)
-kanojo		dia (perempuan)
-kazoku		keluarga
-hitoride	sendirian
-futsuu		biasa
-kyuukou		ekspress
+新幹線		しんかんせん	shinkansen
+バス		bus
+タクシー	taksi
+自転車		じてんしゃ	sepeda
+歩いて		あるいて	dengan berjalan kaki
+誕生日		たんじょうび	ulang tahun
+去年		きょねん	tahun lalu
+今年		ことし		tahun ini
+来年		らいねん	tahun depan
+人		ひと		orang
+友達		ともだち	teman
+彼		かれ		dia (laki-laki)
+彼女		かのじょ	dia (perempuan)
+家族		かぞく		keluarga
+一人で		ひとりで	sendirian
+普通		ふつう		biasa
+急行		きゅうこう	ekspress
 
-~nen		tahun~
-nannen		tahun berapa
-~gatsu		bulan~
-ichigatsu	bulan 1, januari
-shigatsu	bulan 4, april
-shichigatsu	bulan 7, juli
-kugatsu		bulan 9, september
-nangatsu	bulan apa?
-~nichi		~hari, tanggal~
-nannichi	tanggal berapa, berapa hari
-itsu		kapan?
+~年		～ねん		tahun~
+何年		なんねん	tahun berapa
+～月		～がつ		bulan~
+１月		いちがつ	bulan 1, januari
+４がつ		しがつ		bulan 4, april
+７がつ		しちがつ	bulan 7, juli
+９がつ		くがつ		bulan 9, september
+何月		なんがつ	bulan apa?
+～日		～にち		~hari, tanggal~
+何日		なんにち	tanggal berapa, berapa hari
+いつ		kapan?
 
-tsuitachi	tanggal 1
-futsuka		tanggal 2
-mikka		tanggal 3
-yokka		tanggal 4
-itsuka		tanggal 5
-muika		tanggal 6
-nanoka		tanggal 7
-yuuka		tanggal 8
-kokonoka	tanggal 9
-tooka		tanggal 10
-juuyokka	tanggal 14
-hatsuka		tanggal 20
-nijuuyokka	tanggal 24
+１日		ついたち	tanggal 1
+２日		ふつか		tanggal 2
+3日		みっか		tanggal 3
+4日		よっか		tanggal 4
+5日		いつか		tanggal 5
+6日		むいか		tanggal 6
+7日		なのか		tanggal 7
+8日		ゆうか		tanggal 8
+9日		ここのか	tanggal 9
+１０日		とおか		tanggal 10
+１４日		じゅうよっか	tanggal 14
+20日		はつか		tanggal 20
+２４日H		にじゅうよっか	tanggal 24
 
-furi-ma-ketto	flea market, free market
-soudesune	ya betul, ya begitulah
-[doumo]arigatou gozaimashita	terima kasih [banyak]
-douitashimashite	sama-sama, you are welcome, my pleasure
-~bansen		peron nomor~, gerbong nomor~
-tsugino		selanjutnya
-tokkyou		super ekspres
-
-
-
-
-
-
-
+フリーマーケット	flea market, free market
+そうですね		ya betul, ya begitulah
+[どうも]ありがとうございます	terima kasih [banyak]
+どういたしまして	sama-sama, you are welcome, my pleasure
+～番線		～ばんせん	peron nomor~, gerbong nomor~
+次の		つぎの		selanjutnya
+とっきょう	super ekspres
 
 
 
 ------------- Bab 7  ------------
-tabemasu	makan
-nomimasu	minum
-suimasu		menghisap
-mimasu		melihat, menonton
-kikimasu	mendengar
-yomimasu	membaca
-kakimasu	menulis
-kakimasu	menggambar
-kaimasu		membeli
-torimasu	mengambil
-aimasu		bertemu
-shimasu		melakukan, mengerjakan, berbuat
-tenisu		tenis
+食べます	たべます	makan
+飲みます	のみます	minum
+吸います	すいます	menghisap
+見ます		みます		melihat, menonton
+聞きます	ききます	mendengar
+読みます	よみます	membaca
+書きます	かきます	menulis
+描きます	かきます	menggambar
+買います	かいます	membeli
+取ります	とります	mengambil
+合います	あいます	bertemu
+します		melakukan, mengerjakan, berbuat
+テニス		tenis
 
-sakka-		sepak bola, soccer, football
-[o]hanami	menikmati bunga sakura
-tabako		rokok
-tegami		surat
-repo-to		laporan
-shashin		foto
-bideo		video
-nani		apa?
-nan		apa?
-gohan		nasi
-asagohan	sarapan
-hirugohan	makan siang
-bangohan	makan malam
+サッカー	sepak bola, soccer, football
+お花見		おはなみ	menikmati bunga sakura
+タバコ		rokok
+手紙		てがみ		surat
+レポート	laporan
+写真		しゃしん	foto
+ビデオ		video
+何		なに/なん	apa?
+ご飯		ごはん		nasi
+朝ご飯		あさごはん	sarapan
+昼ご飯		ひるごはん	makan siang
+晩ご飯		ばんごはん	makan malam
 
-pan		roti
-tamago		telur
-niku		daging
-sakana		ikan
-yasai		sayur
-kudamono	buah-buahan
-mizu		air
-ocha		teh, teh jepang
-koucha		teh merah
-miruku		susu
-gyuunyuu	susu
-ju-su		jus
-bi-ru		bir
-[o]sake		sake, minuman keras
+パン		roti
+卵		たまご		telur
+肉		にく		daging
+魚		さかな		ikan
+野菜		やさい		sayur
+果物		くだもの	buah-buahan
+水		みず		air
+お茶		おちゃ		teh, teh jepang
+紅茶		こうちゃ	teh merah
+ミルク		susu
+牛乳		ぎゅうにゅう	susu
+ジュース	jus
+ビール		bir
+お酒		おさけ		sake, minuman keras
 
-mise		toko
-niwa		halaman (rumah)
-mekishiko	meksiko
-isshoni		bersama-sama
-chotto		sebentar, sedikit
-itsumo		selalu
-tokidoki	kadang-kadang, sometimes
-korekara	setelah itu, kemudian
-ee		iya (santai)
-iidesune	bagus ya, baik ya
-nandesuka	apa?
-ja, mata[ashita]	ok, sampai jumpa[besok]
-wakarimashita	mengerti, baik
-
-
-
-
-
-
-
-
+店		みせ		toko
+庭		にわ		halaman (rumah)
+メキシコ	meksiko
+一緒に		いっしょに	bersama-sama
+ちょっと	sebentar, sedikit
+いつも		selalu
+時々		ときどき	kadang-kadang, sometimes
+これから	setelah itu, kemudian
+ええ		iya (santai)
+いいですね	bagus ya, baik ya
+なんですか	apa?
+じゃ、また[明日]	ok, sampai jumpa[besok]
+分かりました	わかりました	mengerti, baik
 
 
 ------------- Bab 8  ------------
-kirimasu	menggunting, memotong
-okurimasu	mengirim, mengantar
-agemasu		memberikan
-moraimasu	mendapatkan, menerima
-kashimasu	meminjamkan, menyewakan
-karimasu	meminjam, menyewa
-oshiemasu	mengajar
-naraimasu	belajar (dengan tutor)
-denwa wo kakemasu	menelepon
-te		tangan
-hashi		sumpit
-supu-n		sendok
+切ります	きります	menggunting, memotong
+送ります	おくります	mengirim, mengantar
+あげます	memberikan
+もらいます	mendapatkan, menerima
+貸します	かします	meminjamkan, menyewakan
+借ります	かります	meminjam, menyewa
+教えます	おしえます	mengajar
+習います	ならいます	belajar (dengan tutor)
+電話をかけます	menelepon
+手		て		tangan
+箸		はし		sumpit
+スプーン	sendok
 
-naifu		pisau, knife
-fo-ku		garpu, fork
-hasami		gunting
-ke-tai		HP
-me-ru		email
-nengajou	kartu tahun baru
-panchi		pelubang kertas
-hocchikisu	staples, stapler
-serote-pu	selotip
-keshigomu	penghapus karet, eraser
+ナイフ		pisau, knife
+フォーク	garpu, fork
+ハサミ		gunting
+ケータイ	HP
+メール		email
+年賀状		ねんがじょう	kartu tahun baru
+パンチ		pelubang kertas
+ホチキス	staples, stapler
+セロテープ	selotip
+消しゴム	けしごむ	penghapus karet, eraser
 
-kami		kertas
-hana		bunga
-puresento	present, hadiah, kado
-nimotsu		barang
-okane		uang
-chichi		bapak, ayah
-haha		ibu
-okaasan		ibu orang lain (panggilan untuk ibu kandung sendiri)
-otousan		ayah orang lain (panggilan untuk ibu kandung sendiri)
-kurisumasu	natal, christmas
-kippu		karcis, tiket
-shatsu		kemeja, kaos
-mou		sudah
-mada		belum
-korekara	mulai sekarang
-~sutekidesune	~bagus ya
-irasshai	selamat datang
-douzo oagari kudasai	silahkan masuk
-shitsureishimasu	permisi
-[~ha]ikagadesuka	bagaimana [~]
-itadakimasu	selamat makan
-gochisousama[deshita]	terima kasih atas hidangannya
-
-
-
-
-
-
+髪		かみ		kertas
+花		はな		bunga
+プレセント	present, hadiah, kado
+荷物		にもつ		barang
+お金		おかね		uang
+父		ちち		bapak, ayah
+母		はは		ibu
+お母さん	おかあさん	ibu orang lain (panggilan untuk ibu kandung sendiri)
+お父さん	おとうさん	ayah orang lain (panggilan untuk ibu kandung sendiri)
+クリスマス	natal, christmas
+きっぷ		karcis, tiket
+シャツ		kemeja, kaos
+もう		sudah
+まだ		belum
+これから	mulai sekarang
+～素敵ですね	～すてきですね	~bagus ya
+いらっしゃい	selamat datang
+どうぞおあがりください		silahkan masuk
+失礼します	しつれいします	permisi
+[～は]いかがですか	bagaimana [~]
+頂きます	いただきます	selamat makan
+ごちそうさま[でした]		terima kasih atas hidangannya
 
 
 ------------- Bab 9  ------------
-hansamu[na]	ganteng, tampan, gagah
-kirei[na]	bersih, cantik
-shizuka[na]	tenang, sunyi
-nigiyaka[na]	ramai
-yuumei[na]	terkenal
-shinsetsu[na]	baik hati (tidak digunakan untuk keluarga sendiri)
-genki[na]	sehat walafiat
-hima[na]	senggang, luang, waktu luang
-benri[na]	praktis
-suteki[na]	bagus
-ookii		besar
-chiisai		kecil
-atarashii	baru
-furui		lama, tua
-ii		baik, bagus
-yoi		baik, bagus
-warui		buruk, jelek
-atsui		panas
-samui		dingin (cuaca)
-tsumetai	dingin (benda)
+ハンサム[na]	ganteng, tampan, gagah
+きれい[na]	bersih, cantik
+しずか[na]	tenang, sunyi
+賑やか[na]	にぎやか	ramai
+有名[na]	ゆうめい	terkenal
+親切[na]	しんせつ	baik hati (tidak digunakan untuk keluarga sendiri)
+元気[na]	げんき		sehat walafiat
+暇[na]		ひま		senggang, luang, waktu luang
+便利[na]	べんり		praktis
+素敵[na]	すてき		bagus
+大きい		おおきい	besar
+小さい		ちいさい	kecil
+新しい		あたらしい	baru
+古い		ふるい		lama, tua
+いい		baik, bagus
+良い		よい		baik, bagus
+悪い		わるい		buruk, jelek
+暑い		あつい		panas
+寒い		さむい		dingin (cuaca)
+冷たい		つめたい	dingin (benda)
 
-muzukashii	sulit, susah
-yasashii	mudah, gampang
-takai		mahal, tinggi
-yasui		murah
-hikui		rendah
-omoshiroi	menarik
-oishii		enak
-amari		kurang begitu~, tidak begitu~ (diikuti kalimat negatif)
-totemo		sangat, ~sekali (digunakan sebelum kata sifat)
-isogashii	sibuk
-tanoshii	senang
-shiroi		putih
-kuroi		hitam
-aoi		biru
-akai		merah
-midori		hijau
-sakura		sakura
-yama		gunung
-machi		kota
-tabemono	makanan
-nomimono	minuman
+難しい		むずかしい	sulit, susah
+優しい		やさしい	mudah, gampang
+高い		たかい		mahal, tinggi
+安い		やすい		murah
+低い		ひくい		rendah
+面白い		おもしろい	menarik
+美味しい	おいしい	enak
+あまり		kurang begitu~, tidak begitu~ (diikuti kalimat negatif)
+とても		sangat, ~sekali (digunakan sebelum kata sifat)
+忙しい		いそがしい	sibuk
+楽しい		たのしい	senang
+白い		しろい		putih
+黒い		くろい		hitam
+青い		あおい		biru
+赤い		あかい		merah
+緑		みどり		hijau
+桜		さくら		sakura
+山		やま		gunung
+町		まち		kota
+食べ物		たべもの	makanan
+飲み物		のみもの	minuman
 
-tokoro		tempat
-ryou		asrama
-seikatsu	kehidupan
-[o]shigoto	pekerjaan
-dou		bagaimana?
-donna~		yang bagaimana~
-soshite		kemudian, dan (digunakan untuk menyambung kalimat)
-~ga		~, tetapi~ (di tengah kalimat)
-ogenki desuka	apa kabar?
-~mou ippai ikagadesuka	mau tambah~ secangkir lagi?
-mou~ desu[ne]	sudah ~[ya]
-sorosoro shitsureishimasu	maaf, saya mau pamit dulu
-iie		sama-sama
-mata irashatte kudasai	silahkan datang lagi
-shanhai		sanghai
-kinkakuji	kuil kinkakuji
+所		ところ		tempat
+寮		りょう		asrama
+生活		せいかつ	kehidupan
+お仕事		おしごと	pekerjaan
+どう		bagaimana?
+どんな～	yang bagaimana~
+そして		kemudian, dan (digunakan untuk menyambung kalimat)
+～が		~, tetapi~ (di tengah kalimat)
+お元気ですか	apa kabar?
+～もういっぱいいかがですか	mau tambah~ secangkir lagi?
+もう～です[ね]	sudah ~[ya]
+そろそろしつれいします		maaf, saya mau pamit dulu
+いいえ		sama-sama
+またいらしゃってください	silahkan datang lagi
+シャンハイ	sanghai
+金閣寺		きんかくじ	kuil kinkakuji
 
-
-
-
-
-
-
-
+===HERE===
 
 ------------- Bab 10  ------------
 wakarimasu	mengerti
