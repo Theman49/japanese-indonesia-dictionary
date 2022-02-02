@@ -533,67 +533,67 @@ Japanese	Indonesia
 シャンハイ	sanghai
 金閣寺		きんかくじ	kuil kinkakuji
 
-===HERE===
 
 ------------- Bab 10  ------------
-wakarimasu	mengerti
-arimasu		ada, mempunyai (benda mati)
-suki[na]	suka, gemar
-kirai[na]	tidak suka, benci
-jouzu[na]	pintar, pandai 
-heta[na]	tidak pandai, tidak pintar
-nomimono	minuman
-ryouri		masakan
-supo-tsu	sport, olahraga
-yakyuu		bisbol, baseball
+分かります	わかります	mengerti
+あります	ada, mempunyai (benda mati)
+好き[na]	すき		suka, gemar
+嫌い[na]	きらい		tidak suka, benci
+上手[na]	じょうず	pintar, pandai 
+下手[na]	へた		tidak pandai, tidak pintar
+飲み物		のみもの	minuman
+料理		りょうり	masakan
+スポーツ	sport, olahraga
+野球		bisbol, baseball
 
-dansu		dansa
-ryokou		tamasya, trip, travel
-ongaku		musik
-uta		lagu
-kurasikku	klasik 
-jazzu		jaz
-karaoke		karaoke
-e		gambar
-kabuki		kabuki (salah satu drama tradisional jepang)
-ji		huruf
-goshujin	suami (digunakan untuk menyebutkan suami orang lain)
+ダンス		dansa
+旅行		りょこう	tamasya, trip, travel
+音楽		おんがく	musik
+歌		うた		lagu, nyanyian
+クラシック	klasik 
+ジャッズ	jaz
+カラオケ	karaoke
+絵		えe		gambar
+歌舞伎		かぶき		kabuki (salah satu drama tradisional jepang)
+字		じ		huruf
+ご主人		ごしゅじん	suami (digunakan untuk menyebutkan suami orang lain)
 
-otto		suami
-shujin		suami
-okusan		istri (digunakan untuk menyebutkan suami orang lain)
-tsuma		istri
-kanai		istri
-kodomo		anak
-yoku		dengan baik
-daitai		kira-kira, kurang lebih
-takusan		banyak
-sukoshi		sedikit
-zenzen		sama sekali (diikuti kalimat negatif)
-hayaku		dengan cepat
+夫		おっと		suami
+主人		しゅじん	suami
+奥さん		おくさん	istri (digunakan untuk menyebutkan suami orang lain)
+妻		つま		istri
+家内		かない		istri
+子供		こども		anak
+よく		dengan baik
+だいたい	kira-kira, kurang lebih
+たくさん	banyak
+少し		すこし		sedikit
+全然		ぜんぜん	sama sekali (diikuti kalimat negatif)
+速く		はやく		dengan cepat(untuk kecepatan)
+早く		はやく		dengan cepat(untuk waktu)
 
-jikan		waktu, jam
-gurai		kurang lebih, sekitar, kira-kira
-~kara		karena~, sebab~
-kanji		kanji
-hiragana	hiragana
-katakana	katakana
-ro-maji		romaji, huruf latin
-omakai okane	uang kecil, uang receh
-chiketto	tiket
-youji		urusan
-yakusoku	janji
+時間		じかん		waktu, jam
+ぐらい		kurang lebih, sekitar, kira-kira
+～から		karena~, sebab~
+漢字		かんじ		kanji
+ひらがな	hiragana
+カタカナ	katakana
+ローマジ	romaji, huruf latin
+細かいお金	こまかいおかね	uang kecil, uang receh
+チケット	tiket
+用事		ようじ		urusan
+約束		やくそく	janji
 
-arubaito	kerja paruh waktu, kerja sampingan, part time
-doushite	kenapa?
-kashite kudasai	tolong pinjamkan
-iidesuyo	boleh
-zannendesu[ga]	sayang sekali
-aa		oh, aa
-isshoni ikagadesuka	bagaimana kalau bersama-sama?
-~ha chotto	maaf ya, saya tidak bisa~
-damedesuka	tidak bisa ya?, tidak boleh ya?
-matakondo onegaishimasu	maaf, lain kalisaja
+アルバイト	kerja paruh waktu, kerja sampingan, part time
+どうして	kenapa?
+貸してください	かしてください	tolong pinjamkan
+いいですよ	boleh
+残念です[が]	sayang sekali
+ああ		oh, aa
+一緒にいかがですか	いっしょにいかがですか	 	bagaimana kalau bersama-sama?
+～はちょっと	maaf ya, saya tidak bisa~
+だめですか	tidak bisa ya?, tidak boleh ya?
+また今度お願いします	またこんどおねがいします	maaf, lain kalisaja
 
 
 
@@ -601,614 +601,545 @@ matakondo onegaishimasu	maaf, lain kalisaja
 
 
 ------------- Bab 11  ------------
-arimasu		ada (benda mati)
-imasu		ada (benda hidup)
-iroiro[na]	berbagai
-otokonohito	orang laki-laki
-onanohito	orang perempuan
-otokonoko	anak laki-laki
-onanoko		anak perempuan
-inu		anjing
-neko		kucing
-panda		panda
-zou		gajah
-ki		pohon
+あります	ada (benda mati)
+います		ada (benda hidup)
+いろいろ[は]	berbagai
+男の人		おとこのひと	orang laki-laki
+女の人		おんなのひと	orang perempuan
+男の子		おとこのこ	anak laki-laki
+女の子		おんなのこ	anak perempuan
+犬		いぬ		anjing
+猫		ねこ		kucing
+パンダ		panda
+像		ぞう		gajah
+木		き		pohon
 
-mono		barang
-denchi		baterai
-hako		kotak
-suicchi		tombol, saklar
-reizouko	kulkas, lemari es
-te-buru		meja makan
-beddo		bed, tempat tidur
-tana		lemari
-doa		pintu
-mado		jendela
-posuto		kotak surat, kotak pos
-biru		gedung
+物		もの		barang
+電池		でんち		baterai
+箱		はこ		kotak
+スイッチ	tombol, saklar
+冷蔵庫		れいぞうこ	kulkas, lemari es
+テーブル	meja makan
+ベッド		bed, tempat tidur
+棚		あな		lemari
+ドア		pintu
+窓		まど		jendela
+ポスト		kotak surat, kotak pos
+ビル		gedung
 
-konbini		toko 24 jam, swalayan, indomaret
-kouen		taman (publik, umum)
-kissaten	kedai kopi, coffee shop
-~ya		toko~
-kutsuya		toko sepatu
-noriba		tempat naik
-ue		atas
-shita		bawah
-mae		depan
-ushiro		belakang
-migi		kanan
-hidari		kiri
+コンビニ	toko 24 jam, swalayan, indomaret
+公園		こうえん	taman (publik, umum)
+喫茶店		きっさてん	kedai kopi, coffee shop
+～屋		～や		toko~
+靴屋		くつや		toko sepatu
+乗り場		のりば		tempat naik
+上		うえ		atas
+下		した		bawah
+前		まえ		depan
+うしろ		belakang
+右		みぎ		kanan
+左		ひだり		kiri
 
-naka		dalam, di dalam
-soto		luar
-tonari		sebelah
-chikaku		dekat
-aida		antara
-ken		prefektur, provinsi
-[doumo]sumimasen	terima kasih [banyak]
-nanpura-	kecap ikan
-ko-na-		tempat, bagian penjualan
-ichiban shita	paling bawah
-toukyoudizuni-rando	tokyo disneyland
-~ya~[nado]	~dan ~[dan lain-lain]
-
-
-
-
-
+中		なか		dalam, di dalam
+外		そと		luar
+隣		となり		sebelah
+近く		ちかく		dekat
+間		あいだ		antara
+県		けん		prefektur, provinsi
+[どうも]すみません		terima kasih [banyak]
+ナンプラー	kecap ikan
+コーナー	tempat, bagian penjualan
+いちばん下	いちばんした	paling bawah
+東京ヂイズニーランド	とうきょうぢずにらんど	tokyo disneyland
+～や～[など]	~dan ~[dan lain-lain]
 
 
 
 
 ------------- Bab 12  ------------
-[ga]imasu	ada, mempunyai (kepemilikan)
-[ni]imasu	ada (keberadaan)
-kakarimasu	memakan, perlu (digunakan untuk waktu dan uang)
-[wo]yasumimasu	tidak masuk~
-ringo		apel
-ikutsu		berapa (banyak)
-hitori		seorang
-futari		dua orang
-~nin		~orang
+[が]います	ada, mempunyai (kepemilikan)
+[に]います	ada (keberadaan)
+かかります	memakan, perlu (digunakan untuk waktu dan uang)
+[を]休みます	[を]やすみます	tidak masuk~
+りんご		apel
+いくつ		berapa (banyak)
+1人		ひとり		seorang
+2人		ふたり		dua orang
+～人		～にん		~orang
 
-hitotsu		1 buah/benda
-futatsu		2 buah/benda
-mittsu		3 buah/benda
-yottsu		4 buah/benda
-itsutsu		5 buah/benda
-muttsu		6 buah/benda
-nanatsu		7 buah/benda
-yattsu		8 buah/benda
-kokonotsu	9 buah/benda
+１つ		ひとつ		1 buah/benda
+２つ		ふたつ		2 buah/benda
+３つ		みっつ		3 buah/benda
+４つ		よっつ		4 buah/benda
+５つ		いつつ		5 buah/benda
+６つ		むっつ		6 buah/benda
+７つ		ななつ		7 buah/benda
+８つ		やっつ		8 buah/benda
+９つ		ここのつ	9 buah/benda
 
-~dai		~ buah (kata bantu bilangan untuk menghitung mesin dan mobil)
-nidai		2 buah (mesin)
-~mai		~lembar, ~helai
-~kai		~kali
-ikkai		1 kali
-rokkai		6 kali
-hakkai		8 kali
-hachikai	8 kali
-jukkai		10 kali
+～台		～だい		~ buah (kata bantu bilangan untuk menghitung mesin dan mobil)
+２台		にだい		2 buah (mesin)
+～枚		～まい		~lembar, ~helai
+～回		～かい		~kali
+1回		いっかい	1 kali
+6回		ろっかい	6 kali
+8回		はっかい	8 kali
+８回		はちかい	8 kali
+10回		じゅっかい	10 kali
 
-mikan		jeruk
-sandoicchi	sandwich
-kare-[raisu]	[nasi dan] kare
-aisukuri-mu	es krim
-kitte		perangko
-hagaki		kartu pos
+みかん		jeruk
+サンドイッチ	sandwich
+カレー[ライス]	[nasi dan] kare
+アイスクリーム	es krim
+切手		きって		perangko
+はがき		kartu pos
 
-fuutou		amplop
-ryoushin	orang tua
-kyoudai		saudara, saudari
-ani		kakak laki-laki (untuk kakak sendiri)
-onisan		kakak laki-laki (untuk kakak orang lain)
-ane		kakak perempuan (untuk kakak sendiri)
-onesan		kakak perempuan (untuk kakak orang lain)
-otouto		adik laki-laki (adik sendiri)
-otoutosan	adik laki-laki (adik orang lain)
-imouto		adik perempuan (adik sendiri)
-imoutosan	adik perempuan (adik orang lain)
-gaikoku		luar negeri, negara asing
-ryuugakusei	pelajar asing
-kurasu		kelas
-~jikan		~jam
-~shuukan	~minggu
-isshuukan	satu minggu, 1 minggu
-~kagetsu	~bulan
-ikkagetsu[kan]	[selama] 1 bulan
-rokkagetsu[kan]	[selama] 6 bulan
-hakkagetsu[kan]	[selama] 8 bulan
-hachigetsu[kan]	[selama] 8 bulan
-jukkagetsu[kan]	[selama] 10 bulan
+封筒		ふうとう	amplop
+両親		りょうしん	orang tua
+兄弟		きょうだい	saudara, saudari
+兄		あに		kakak laki-laki (untuk kakak sendiri)
+お兄さん	おにいさん	kakak laki-laki (untuk kakak orang lain)
+姉		あね		kakak perempuan (untuk kakak sendiri)
+お姉さん	おねえさん	kakak perempuan (untuk kakak orang lain)
+弟		おとうと	adik laki-laki (adik sendiri)
+弟さん		おとうとさん	adik laki-laki (adik orang lain)
+妹		いもうと	adik perempuan (adik sendiri)
+妹さん		いもうとさん	adik perempuan (adik orang lain)
+外国		がいこく	luar negeri, negara asing
+留学生		りゅうがくせい	pelajar asing
+クラス		kelas
+～時間		～じかん	~jam
+～週間		～しゅうかん	~minggu
+一週間		いっしゅうかん	satu minggu, 1 minggu
+～か月		～かげつ	~bulan
+一か月[間]	いっかげつ[かん]	[selama] 1 bulan
+6か月[間]	ろっかげつ[かん]	[selama] 6 bulan
+8か月[間]	はっかげつ[かん]	[selama] 8 bulan
+8か月[間]	はちかげつ[かん]	[selama] 8 bulan
+10か月[間]	じゅっかげつ[かん]	[selama] 10 bulan
 
-~nen		~tahun
-~gurai		kira-kira~
-donokurai	berapa lama
-zenbude		semua
-minna		semuanya (orang)
-~dake		hanya, ~saja
-kashikomarimashita	baik (bentuk sopan wakarimashita)
-ii[o]tenkidesune	cuacanya bagus ya
-funabin		pos laut, pelabuhan
+～年		～ねん		~tahun
+～ぐらい	kira-kira~
+どのくらい	berapa lama
+全部で		ぜんぶで	semua
+みんな		semuanya (orang)
+～だけ		hanya, ~saja
+かしこまりました		baik (bentuk sopan wakarimashita)
+いいおてんきですね		cuacanya bagus ya
+船便		ふなびん	pos laut, pelabuhan
 
-odekakedesuka	mau keluar?
-chotto ~made	ke~ sebentar
-itterasshai	hati-hati
-ittekimasu	saya berangkat
-koukuubin	pos udara, bandara
-eame-ru		pos udara, bandara
-onegaishimasu	tolong
-o-sutoraria	australia
-
-
-
-
-
-
+お出かけですか	おでかけですか	mau keluar?
+ちょっと～まで 	ke~ sebentar
+行ってらっしゃい	いってらっしゃい	hati-hati
+行ってきます		いってきます		saya berangkat
+航空便		こうくうびん	pos udara, bandara
+エアメール	pos udara, bandara
+お願いします	おねがいします	tolong
+オーストラリア	australia
 
 
 ------------- Bab 13  ------------
-kantan[na]	mudah, gampang
-chikai		dekat
-tooi		jauh
-hayai		cepat (早い:cepat dalam waktu; 速い:cepat dalam kecepatan benda)
-osoi		lambat
-ooi		banyak (benda hidup)
-sukunai		sedikit (benda hidup)
-atatakai	hangat (暖かい:suhu ruangan; 温かい:benda)
-suzushii	sejuk
+簡単		かんたん[な]	mudah, gampang
+近い		ちかい		dekat
+遠い		とおい		jauh
+はやい		cepat (早い:cepat dalam waktu; 速い:cepat dalam kecepatan benda)
+遅い		おそい		lambat
+多い		おおい		banyak (benda hidup)
+少ない		すくない	sedikit (benda hidup)
+あたたかい	hangat (暖かい:suhu ruangan; 温かい:benda)
+涼しい		すずしい	sejuk
 
-amai		manis
-karai		pedas
-omoi		berat
-karui		ringan
-[~ga]ii		lebih baik, baik
-kisetsu		musim
-haru		musim semi
-natsu		musim panas
-aki		musim gugur
+甘い		あまい		manis
+辛い		からい		pedas
+重い		おもい		berat
+軽い		かるい		ringan
+[～が]いい	lebih baik, baik
+季節		きせつ		musim
+春		はる		musim semi
+夏		なつ		musim panas
+秋		あき		musim gugur
 
-fuyu		musim dingin
-tenki		cuaca
-ame		hujan
-yuki		salju
-kumori		mendung
-hoteru		hotel
-kuukou		bandara
-umi		laut
+冬		ふゆ		musim dingin
+天気		てんき		cuaca
+雨		あめ		hujan
+雪		ゆき		salju
+曇り		くもり		mendung
+ホテル		hotel
+空港		くうこう	bandara
+海		うみ		laut
 
-sekai		dunia
-pa-ti-		pesta
-[o]matsuri	perayaan
-sukiyaki	sukiyaki (makanan daging sapi dan sayur dalam panci)
-sashimi		sashimi (ikan mentah yang dipotong tipis)
-[o]sushi	sushi (nasi dicampur cuka yang didalamnya diberi ikan mentah)
-tenpura		tempura (gorangan sari laut dan sayur yang dipakai tepung teriku)
-buta niku	daging babi
-tori niku	daging ayam
+世界		せかい		dunia
+パーティ	pesta, party
+[お]祭り	[お]まつり	perayaan
+すき焼き	すきやき	sukiyaki (makanan daging sapi dan sayur dalam panci)
+刺身		さしみ		sashimi (ikan mentah yang dipotong tipis)
+[お]すし	sushi (nasi dicampur cuka yang didalamnya diberi ikan mentah)
+てんぷら	tempura (gorangan sari laut dan sayur yang dipakai tepung teriku)
+豚肉		ぶたにく	daging babi
+鶏肉		とりにく 	daging ayam
 
-ichiban		paling
-ikebana		seni merangkai bunga
-dochira		yang mana
-dochiramo	dua-duanya, yang mana juga
-zutto		jauh lebih, terus terusan
-momiji		maple, daun yang berubah warna menjadi merah
-gyuuniku	daging sapi
-remon		lemon
-hajimete	untuk pertama kali
+いちばん	paling
+生け花		いけばな	seni merangkai bunga
+どちら		yang mana
+どちらも	dua-duanya, yang mana juga
+ずっと		jauh lebih, terus terusan
+紅葉		もみじ		maple, daun yang berubah warna menjadi merah
+牛肉		ぎゅうにく	daging sapi
+レモン		lemon
+初めて		はじめて	untuk pertama kali
 
-tadaima		saya kembali, saya pulang
-okaerinasai	selamat datang kembali, sudah pulang ya
-waa, sugoihitodesune	wah, banyak orang
-tsukaremashita	lelah
-gionmatsuri	perayaan Gion
-honkon		hongkong
-shingapo-ru	singapura
-~yori		daripada~
-
-
-
-
-
-
-
-
-
+ただいま	saya kembali, saya pulang
+お帰りなさい	おかえりなさい	selamat datang kembali, sudah pulang ya
+わあ、すごい人ですね	わあ、すごいひとですね		wah, banyak orang
+疲れました	つかれました	lelah
+祇園祭		ぎおんまつり	perayaan Gion
+ホンコン	hongkong
+シンガポール	singapura
+～より		daripada~
 
 ------------- Bab 14  ------------
-asobimasu	bermain
-oyogimasu	berenang
-mukaemasu	menjemput (mukae ni ikimasu : pergi menjemput)
-tsukaremasu	lelah (jika keadaan lelah : tsukaremshita)
-kekkonshimasu	menikah
-[~ga]hoshii	ingin~, mau~
+遊びます	あそびます	bermain
+泳ぎます	およぎます	berenang
+迎えます	むかえます	menjemput (mukae ni ikimasu : pergi menjemput)
+疲れます	つかれます	lelah (jika keadaan lelah : tsukaremshita)
+結婚します	けっこんします	menikah
+[～が]欲しい	[～が]ほしい	ingin~, mau~
 
-shokujishimasu	makan (tanpa objek)
-sanposhimasu	berjalan-jalan (~wo sanposhimasu : berjalan-jalan di~)
-taihen[na]	berat, susah
-kaimonoshimasu	berbelanja
-hiroi		luas
-semai		sempit
-pu-ru		kolam renang, pool
+食事します	しょくじします	makan (tanpa objek)
+散歩します	さんぽします	berjalan-jalan (~wo sanposhimasu : berjalan-jalan di~)
+大変		たいへん	berat, susah
+買い物します	かいものします	berbelanja
+広い		ひろい		luas
+狭い		せまい		sempit
+プール		kolam renang, pool
 
-kawa		sungai
-bijutsu		seni, art
-tsuri		pancing (tsuri wo shimasu : memancing)
-suki-		ski (suki- wo shimasu : bermain ski)
-shuumatsu	akhir pekan, weekend
-[o]shougatsu	tahun baru, new year
+川		かわ		sungai
+美術		びじゅつ	seni, art
+釣り		つり		pancing (tsuri wo shimasu : memancing)
+スキー		ski (suki- wo shimasu : bermain ski)
+週末		しゅうまつ	akhir pekan, weekend
+[お]正月	[お]しょうがつ	tahun baru, new year
 
-~goro		sekitar~, kira-kira
-nanika		sesuatu
-dokoka		suatu tempat
-nodoga kawakimasu	haus (jika keadaan haus : nodoga kawakimashita)
-onakaga sukimasu	lapar (jika keadaan lapar : onakaga sukimashita)
-soushimashou	ya, mari (digunakan untuk menyetujui aksi yang disarankan)
+～ごろ		sekitar~, kira-kira
+何か		なにか		sesuatu
+どこか		suatu tempat
+のどがかわきます		haus (jika keadaan haus : nodoga kawakimashita)
+おなかがすきます		lapar (jika keadaan lapar : onakaga sukimashita)
+そうしましょう	ya, mari (digunakan untuk menyetujui aksi yang disarankan)
 
-gochuumonha	mau pesan apa? (baca gochuumonwa)
-teishoku	menu paket
-gyuudon		gyudon
-[shoushou]omachidekudasai	tunggu[sebentar]
-~de gozaimasu	(bentuk halus dari desu)
-betsubetsuni	sendiri-sendiri, masing-masing
-
-
-
-
-
-
-
+ごちゅうもんは	mau pesan apa? (baca gochuumonwa)
+定食		ていしょく	menu paket
+牛丼		ぎゅうどん	gyudon
+[しょうしょう]お待ちでください	[しょうしょう]おまちでください	tunggu[sebentar]
+～でございます	(bentuk halus dari desu)
+べつべつに	sendiri-sendiri, masing-masing
 
 
 ------------- Bab 15  ------------
-tsukemasu[2]	menyalakan, memasang, menghidupkan
-keshimasu[1]	mematikan, memadamkan
-akemasu[2]	membuka
-shimemasu[2]	menutup
-isogimasu[1]	buru-buru
-machimasu[1]	menunggu
-mochimasu[1]	membawa
-torimasu[1]	mengambil
-tetsudaimasu[1]	membantu
-yobimasu[1]	memanggil
-hanashimasu[1]	berbicara
-tsukaimasu[1]	menggunakan
-tomemasu[2]	menghentikan, memarkir
-misemasu[2]	memperlihatkan
-oshiemasu[2]	memberitahukan
-suwarimasu[1]	duduk
+つけます[2]	menyalakan, memasang, menghidupkan
+消します[1]	けします	mematikan, memadamkan
+開けます[2]	あけます	membuka
+閉めます[2]	しめます	menutup
+急ぎます[1]	いそぎます	buru-buru
+待ちます[1]	まちます	menunggu
+持ちます[1]	もちます	membawa
+取ります[1]	とります	mengambil
+手伝います[1]	てつだいます	membantu
+呼びます[1]	よびます	memanggil
+話します[1]	はなします	berbicara
+使います[1]	つかいます	menggunakan
+止めます[2]	とめます	menghentikan, memarkir
+見せます[2]	みせます	memperlihatkan
+教えます[2]	おしえます	memberitahukan
+座ります[1]	すわります	duduk
 
-tachimasu[1]	berdiri
-hairimasu[1]	masuk
-demasu[2]	keluar
-furimasu[1]	turun (ame ga furimasu, yuki ga furimasu)
-kopi-shimasu[3]	fotokopi
-denki		listrik, lampu
-eakon		AC
-pasupo-to	pasport, paspor
-namae		nama
-jyuusho		alamat, address
-chizu		peta, map
-shio		garam
-satou		gula
-mondai		masalah, soal
-kotae		jawaban
+立ちます[1]	たちます	berdiri
+入ります[1]	はいります	masuk
+出ます[2]	でます		keluar
+降ります[1]	ふります	turun (ame ga furimasu, yuki ga furimasu)
+コピーします[3]	fotokopi
+電気		でんき		listrik, lampu
+エアコン	AC
+パスポート	pasport, paspor
+名前		なまえ		nama
+住所		じゅうしょ	alamat, address
+地図		ちず		peta, map
+塩		しお		garam
+砂糖		さとう		gula
+問題		もんだい	masalah, soal
+答え		こたえ		jawaban
 
-yomikata	cara membaca
-~kata		cara~
-massugu		lurus
-yukkuri		pelan-pelan
-sugu		segera, langsung
-mata		lagi
-atode		nanti
-mousukoshi	sedikit lagi
-mou~		~lagi
-saa		mari (digunakan untuk mengajak atau menyuruh sesuatu kepada lawan bicara)
-are?		ah? (digunakan ketika heran, kaget,  atau merasa aneh)
-shingou		lampu lalu lintas
-magarimasu	belok
-korede onegaishimasu	minta dengan ini
-otsuri		uang kembalian
-
-
-
-
-
-
-
+読み方		よみかたyomikata	cara membaca
+～方		～かた		cara~
+まっすぐ	lurus
+ゆっくり	pelan-pelan
+すぐ		segera, langsung
+また		lagi
+あとで		nanti
+もう少し	もうすこし	sedikit lagi
+もう～		~lagi
+さあ		mari (digunakan untuk mengajak atau menyuruh sesuatu kepada lawan bicara)
+あれ？		ah? (digunakan ketika heran, kaget,  atau merasa aneh)
+信号		しんごう	lampu lalu lintas
+曲がります	まがります	belok
+これでお願いします	これでおねがいします	minta dengan ini
+お釣り		おつり		uang kembalian
 
 
 ------------- Bab 16  ------------
-okimasu		meletakkan, menaruh
-tsukurimasu	membuat, membangun, memproduksi (作ります:dengan tangan; 造ります:dengan mesin)
-urimasu		menjual
-shirimasu	mengetahui, mengenal
-sumimasu	tinggal
+置きます	おきます	meletakkan, menaruh
+つくります	membuat, membangun, memproduksi (作ります:dengan tangan; 造ります:dengan mesin)
+売ります	うります	menjual
+知ります	しります	mengetahui, mengenal
+住みます	すみます	tinggal
 
-kenkyuushimasu	meneliti
-shiryou		data, bahan
-katarogu	katalog
-jikokuhyou	jadwal
-fuku		baju, pakaian
-seihin		produk
+研究します	けんきゅうします	meneliti
+資料		しりょう		data, bahan
+カタログ	katalog
+時刻表		じこくひょう	jadwal
+服		ふく		baju, pakaian
+製品		せいひん	produk
 
-sofuto		software, perangkat lunak
-denshijisho	kamus elektronik
-keizai		ekonomi
-shakusho	kantor walikota
-koukou		SMA, senior high school
-kaisha		dokter gigi
-
-
-
-
-
-
-
+ソフト		software, perangkat lunak
+電子辞書	でんしじしょ	kamus elektronik
+経済		けいざい	ekonomi
+市役所		しやくしょ	kantor walikota
+高校		こうこう	SMA, senior high school
+会社		かいしゃ	dokter gigi
 
 ------------- Bab 17  ------------
-norimasu	naik (kendaraan)
-orimasu		turun (kendaraan)
-norikaemasu	ganti, pindah (kendaraan)
-abimasu		mandi (shawa- wo abimasu : mandi)
-iremasu		memasukkan
-dashimasu	mengeluarkan, menyerahkan, mengirim
-oroshimasu	mengeluarkan, mengambil (uang)
-hairimasu	masuk
-daigaku		universitas
-demasu		keluar, turun
-oshimasu	menekan
-nomimasu	minum
-hajimemasu	mulai
-kengakushimasu	mengunjungi
-denwashimasu	menelepon
-wakai		muda
-nagai		panjang
-mijikai		pendek
+乗ります	のります	naik (kendaraan)
+降ります	おります	turun (kendaraan)
+乗り換えます	のりかえます	ganti, pindah (kendaraan)
+浴びます	あびます	mandi (shawa- wo abimasu : mandi)
+入れます	いれます	memasukkan
+出します	だします	mengeluarkan, menyerahkan, mengirim
+下ろします	おろします	mengeluarkan, mengambil (uang)
+入ります	はいります	masuk
+大学		だいがく	universitas
+出ます		でます		keluar, turun
+押します	おします	menekan
+飲みます	のみます	minum
+始めます	はじめます	mulai
+見学します	けんがくします	mengunjungi
+電話します	でんわします	menelepon
+若い		わかい		muda
+長い		ながい		panjang
+短い		みじかい	pendek
 
-akarui		terang
-kurai		gelap
-karada		badan
-atama		kepala
-kami		rambut
-kao		muka
-me		mata
+明るい		あかるい	terang
+暗い		くらい		gelap
+体		からだ		badan
+頭		あたま		kepala
+髪		かみ		rambut
+顔		かお		muka
+目		め		mata
 
-mimi		telinga
-hana		hidung
-kuchi		mulut
-ha		gigi
-onaka		perut
-ashi		kaki
-se		punggung
-sa-bisu		pelayanan
-jogingu		jogging, lari pelan-pelan
-shawa-		shower
+耳		みみ		telinga
+鼻		はな		hidung
+口		くち		mulut
+歯		は		gigi
+お腹		おなか		perut
+足		あし		kaki
+背		せ		punggung
+サービス	pelayanan
+ジョギング	jogging, lari pelan-pelan
+シャワー	shower
 
-midori		hijau
-[o]tera		wihara
-jinsha		kuil shinto
-~ban		nomor~
-douyatte	dengan cara bagaimana? (dipakai untuk menanyakan cara pergi ke suatu tempat atau cara untuk melakukan sesuatu)
-dono~		~yang mana (mengungkapkan lebih dari tiga barang/waktu) (dengan KB)
-dore		mana (mengungkapkan lebih dari tiga barang)(tanpa KB)
-sugoidesune	hebat ya
-[iie,]madamadadesu	tidak, belum memuaskan (digunakan untuk merendah)
-ohikidashimasuka	mau menarik uang?
-mazu		pertama-tama, terlebih dahulu
-tsugini		kemudian, selanjutnya
-kyasshuka-do	kartu ATM
-anshoubangou	PIN
-kingaku		jumlah uang
-kakunin		cek
-botan		tombol, button
-
-
-
-
-
-
-
-
+緑		みどり		hijau
+[お]寺		[お]てら	wihara
+神社		じんじゃ	kuil shinto
+～番		～ばん		nomor~
+どうやって	dengan cara bagaimana? (dipakai untuk menanyakan cara pergi ke suatu tempat atau cara untuk melakukan sesuatu)
+どの～		~yang mana (mengungkapkan lebih dari tiga barang/waktu) (dengan KB)
+どれ		mana (mengungkapkan lebih dari tiga barang)(tanpa KB)
+凄いですね	すごいですね	hebat ya
+[いいえ]まだまだです	tidak, belum memuaskan (digunakan untuk merendah)
+お引き出し増すか	おひきだしますか	mau menarik uang?
+まず		pertama-tama, terlebih dahulu
+次に		つぎに		kemudian, selanjutnya
+キャッシュカード		kartu ATM
+暗証番号	あんしょうばんごう	PIN
+金額		きんがく		jumlah uang
+確認		かくにん		cek
+ボタン		tombol, button
 
 ------------- Bab 18  ------------
-oboemasu	mengingat, menghafal
-wasuremasu	lupa
-nakushimasu	kehilangan
-haraimasu	membayar
-kaeshimasu	mengembalikan
-dekakemasu	keluar, pergi, berangkat
-nugimasu	buka (baju, sepatu, dll)
-motteikimasu	membawa pergi
-mottekimasu	membawa datang
-shinpaishimasu	mengkhawatirkan
-zangyoushimasu	lembur
-shucchoushimasu	dinas
-nomimasu	minum (air, obat, dll)
-hairimasu	masuk
-taisetsu[na]	penting, bernilai, berharga
-daijoubu[na]	tidak apa-apa, tidak masalah
+覚えます	おぼえます	mengingat, menghafal
+忘れます	ますれます	lupa
+なくします	なくします	kehilangan
+払います	はらいます	membayar
+返します	かえします	mengembalikan
+出かけます	でかけます	keluar, pergi, berangkat
+脱ぎます	ぬぎます	buka (baju, sepatu, dll)
+持っていきます	もっていきます	membawa pergi
+持ってきます	もってきます	membawa datang
+心配します	しんぱいします	mengkhawatirkan
+残業します	ざんぎょうします	lembur
+出張します	しゅっちょうします	dinas
+飲みます	のみます	minum (air, obat, dll)
+入ります	はいります	masuk
+大切		たいせつ[な]	penting, bernilai, berharga
+大丈夫		だいじょうぶ[な]	tidak apa-apa, tidak masalah
 
-abunai		bahaya
-kinen		dilarang merokok
-hokenjo		kartu asuransi
-kenkou		kesehatan
-netsu		demam
-hyouki		sakit
-kusuri		obat
-[o]furo		mandi, kamar mandi, bathup
+危ない		あぶない	bahaya
+禁煙		きんえん	dilarang merokok
+保健所		ほけんじょ	kartu asuransi
+健康		けんこう	kesehatan
+熱		ねつ		demam
+病気		びょうき	sakit
+薬		くすり		obat
+[お]風呂	[お]ふろ[o]furo		mandi, kamar mandi, bathup
 
-uwagi		baju, jaket
-shitagi		pakaian dalam
-doushimashitaka	kenapa?, ada masalah apa?
-nodo		kerongkongan, tenggorokan
-[~ga]itaidesu	~sakit
-kaze		demam, masuk angin
-sorekara	dan, kemudian
-odaijini	semoga lekas sembuh, get well soon
-
-
-
-
-
-
-
-
-
+上着		うわぎ		baju, jaket
+下着		したぎ		pakaian dalam
+どうしましたか	kenapa?, ada masalah apa?
+喉		のど		kerongkongan, tenggorokan
+[～が]痛いです	[～が]いたいです	~sakit
+風		かぜ		demam, masuk angin
+それから	dan, kemudian
+お大事に	おだいじに	semoga lekas sembuh, get well soon
 
 
 ------------- Bab 19  ------------
-dekimasu	dapat, bisa
-araimasu	mencuci
-hikimasu	bermain (alat musik)
-utaimasu	bernyanyi
-atsumemasu	mengumpulkan
-sutemasu	membuang
-kaemasu		mengganti, menukar
-untenshimasu	menyetir, mengendarai
-yoyakushimasu	memesan
-piano		piano
+できます	dapat, bisa
+洗います	あらいます	mencuci
+弾きます	ひきます	bermain (alat musik)
+歌います	うたいます	bernyanyi
+集めます	あつめます	mengumpulkan
+捨てます	すてます	membuang
+換えます	かえます	mengganti, menukar
+運転します	うんてんします	menyetir, mengendarai
+予約します	よやくします	memesan
+ピアノ		piano
 
-~me-toru	meter
-genkin		uang tunai
-syumi		hobi, gemar
-nikki		catatan harian, diary
-oinori		doa (~wo shimasu : berdoa)
-furusato	kampung halaman
-kacyou		kepala seksi
-bucyou		kepala bagian
-jyacyou		direktur utama
+~メートル	meter
+現金		げんきん	uang tunai
+趣味		しゅみ		hobi, gemar
+日記		にっき		catatan harian, diary
+お祈り		おいのり	doa (~wo shimasu : berdoa)
+故郷		ふるさと	kampung halaman
+課長		かちょう	kepala seksi
+部長		ぶちょう	kepala bagian
+邪長		じゃちょう	direktur utama
 
-doubutsu	hewan, binatang
-uma		kuda
-mukashi		jaman dahulu
-inta-netto	internet
-tokuni		terutama, khususnya
-hee		betul ya?, benar ya?, masa!
-omoshiroi	menarik (sorewa omoshiroi desune : itu menarik ya)
-nakanaka	jarang, tidak mudah(diikuti bentuk negatif)
-hontoudesuka	benar?, betul?
-zehi		benar-benar, mesti
+動物		どうぶつ	hewan, binatang
+馬		うま		kuda
+昔		むかし		jaman dahulu
+インターネット	internet
+得に		とくに		terutama, khususnya
+へえ		betul ya?, benar ya?, masa!
+面白い		おもしろい	menarik (sorewa omoshiroi desune : itu menarik ya)
+なかなか	jarang, tidak mudah(diikuti bentuk negatif)
+本当ですか	ほんとうですか	benar?, betul?
+ぜひ		benar-benar, mesti
 
 
 
 ------------- Bab 20 ------------
-noborimasu	naik
-tomarimasu	menginap(di hotel)
-soujishimasu	membersihkan
-sentakushimasu	mencuci pakaian
-narimasu	menjadi
-nemui		mengantuk
-tsuyoi		kuat
-yowai		lemah
-toukyou		tokyo
+上ります	のぼります	naik (kendaraan)
+登ります	のぼります	naik (gunung)
+留まります	とまります	menginap(di hotel)
+掃除します	そうじします	membersihkan
+選択します	せんたくします	mencuci pakaian
+なります	menjadi
+眠い		ねむい		mengantuk
+強い		つよい		kuat
+弱い		よわい		lemah
+東京		とうきょう	tokyo
 
-rensyuu		latihan (~wo shimasu : berlatih)
-gorufu		golf (~wo shimasu : bermain golf)
-sumou		sumo (~wo shimasu : bermain sumo)
-ocha		teh
-hi		hari
-cyoushi		kondisi
-ichido		sekali
-ichidomo	satu kalipun, tidak sama sekali(diikuti bentuk negatif)
+練習		れんしゅう	latihan (~wo shimasu : berlatih)
+ゴルフ		golf (~wo shimasu : bermain golf)
+相撲		すもう		sumo (~wo shimasu : bermain sumo)
+お茶		おちゃ		teh
+日		ひ		hari
+調子		ちょうし		kondisi
+一度		いちど		sekali
+一度も		いちども	satu kalipun, tidak sama sekali(diikuti bentuk negatif)
 
-dandan		berangsur-angsur, lama-kelamaan
-mousugu		tidak lama lagi
-okagesamade	atas berkat(ucapan yang digunakan ketika menyatakan rasa terima kasih atas bantuan atau kebaikan hati dari orang)
-demo		tetapi
-kanpai		toast, bersulang
-daietto		diet (~wo shimasu : berdiet)
-muri[na]	paksa, berlebihan, tidak mungkin
-kara da ni ii	baik untuk tubuh
-
-
-
-
-
+段々		だなだん	berangsur-angsur, lama-kelamaan
+もうすぐ	tidak lama lagi
+お陰様で	おかげさまで	atas berkat(ucapan yang digunakan ketika menyatakan rasa terima kasih atas bantuan atau kebaikan hati dari orang)
+でも		tetapi
+乾杯		かんぱい	toast, bersulang
+ダイエット	diet (~wo shimasu : berdiet)
+無理		むり[な]	paksa, berlebihan, tidak mungkin
+体にいい	からだにいい	baik untuk tubuh
 
 
 ------------- Bab 21 ------------
-irimasu		memerlukan
-shirabemasu	memeriksa, meneliti, mengecek
-syuurishimasu	memperbaiki
-boku		aku (laki-laki, informal dari watashi)
-kimi		kamu (informal dari anata)
-~kun		saudara ~ (informal dari san, sering digunakan untuk nama anak laki-laki)
-un		ya (informal dari はい)
-uun		tidak, bukan (informal dari いいえ)
-kotoba		kata, bahasa
-kimono		kimono (pakaian tradisional jepang)
-biza		VISA
-hajime		awal, mula-mula
-owari		akhir
-kocchi		sini (informal kochira)
-sochhi		situ (informal sochira)
-acchi		sana (informal achira)
-docchi		mana (informal dochira)
-minnade		kita semua, kita sama-sama
-~kedo		~tetapi (informal dari が)
-onakagaippaidesu	sudah kenyang
-yokattara	kalau mau, kalau suka
-iroiro		macam-macam
-
-
-
+要ります	いります	memerlukan
+調べます	しらべます	memeriksa, meneliti, mengecek
+修理します	しゅうりします	memperbaiki
+僕		ぼく		aku (laki-laki, informal dari watashi)
+君		きみ		kamu (informal dari anata)
+～君		くん		saudara ~ (informal dari san, sering digunakan untuk nama anak laki-laki)
+うん		ya (informal dari はい)
+ううん		tidak, bukan (informal dari いいえ)
+言葉		ことば		kata, bahasa
+着物		きもの		kimono (pakaian tradisional jepang)
+ビザ		VISA
+初め		はじめ		awal, mula-mula
+終わり		おわり		akhir
+こっち		sini (informal kochira)
+そっち		situ (informal sochira)
+あっち		sana (informal achira)
+どっち		mana (informal dochira)
+みんなで	kita semua, kita sama-sama
+～けど		~tetapi (informal dari が)
+お腹がいっぱいです	おなかがいっぱいです	sudah kenyang
+よかったら	kalau mau, kalau suka
+いろいろ	macam-macam
 
 
 ------------- Bab 22 ------------
-omoimasu        mengira
-iimasu		mengatakan
-kachimasu	menang
-makemasu	kalah
-arimasu		ada, diadakan
-yakunitachimasu	berguna, bermanfaat
-ugokimasu	pindah, bergerak
-yamemasu	berhenti
-kiwotsukemasu	berwaspada, berhati-hati
-ryougakusimasu	studi di luar negeri
-muda[na]	sia-sia. Tidak berguna
-uben[na]	tidak praktis
-sugoi		hebat
-hontou		betul
+思います	おもいます	mengira
+言います	いいます	mengatakan
+勝ちます	かちます	menang
+負けます	まけます	kalah
+あります	ada, diadakan
+役に立ちます	やくにたちます	berguna, bermanfaat
+動きます	うごきます	pindah, bergerak
+止めます	やめます	berhenti
+気をつけます	きをつけます	berwaspada, berhati-hati
+留学します	りゅうがくします	studi di luar negeri
+むだ[な]	sia-sia. Tidak berguna
+鵜便		うべん[な]	tidak praktis
+凄い		すごい		hebat
+本当		ほんとう	betul
 
-uso		bohong
-jidousya	mobil
-koutsuu		lalu lintas
-bukka		harga barang
-bousou		siaran, pengumuman
-nyuusu		berita
-shinjimasu	mempercayai
-anime		animasi jepang
-manga		manga, komik
-dezain		desain
-yume		mimpi
-tensai		genius
-shiai		pertandingan (~ wo shimasu : bertanding)
-iken		pendapat
-hanashi		cerita (~ wo shimasu : bercerita, berbicara)
+嘘		うそ		bohong
+自動車		じどうしゃ	mobil
+交通		こうつう	lalu lintas
+物価		ぶっか		harga barang
+暴走		ぼうそう	siaran, pengumuman
+ニュウス	berita
+信じます	しんじまう	mempercayai
+アニメ		animasi jepang
+漫画		マンガ		manga, komik
+デザイン	desain
+夢		ゆめ		mimpi
+天才		てんさい	genius
+試合		しあい		pertandingan (~ wo shimasu : bertanding)
+意見		いけん		pendapat
+話		はなし		cerita (~ wo shimasu : bercerita, berbicara)
 
-chikyuu		bumi
-tsuki		bulan
-kaguyahime	cerita legenda jepang
-bokushi		pastur, pendeta
-saikin		akhir-akhir ini
-tabun		mungkin, barangkali
-kitto		pasti
-hontouni	betul-betul
-sonnani		tidak begitu (diikuti bentuk negatif)
-~nitsuite	tentang ~, mengenai ~
-hisashiburidesune 	sudah lama tidak bertemu ya
-~demonomimasenka	Bagaimana kalau kita minum ~, atau apa saja?
-mochiron	tentang saja
-moukaeranaito	saya harus pulang
+地球		ちきゅう	bumi
+月		つき		bulan
+かぐやひめ	cerita legenda jepang
+牧師		ぼくし		pastur, pendeta
+最近		さいきん	akhir-akhir ini
+多分		たぶん		mungkin, barangkali
+きっと		pasti
+本当に		ほんとうに	betul-betul
+そんなに	tidak begitu (diikuti bentuk negatif)
+～について	tentang ~, mengenai ~
+久し振りですね	ひさしぶりですね 	sudah lama tidak bertemu ya
+～でも飲みませんか	～でものみませんか	Bagaimana kalau kita minum ~, atau apa saja?
+勿論		もちろん		tentang saja
+もう帰らないと	もうかえらないと	saya harus pulang
 
-
-
-
-
-
+===HERE===
 
 
 ------------- Bab 23 ------------
