@@ -1139,133 +1139,110 @@ Japanese	Indonesia
 勿論		もちろん		tentang saja
 もう帰らないと	もうかえらないと	saya harus pulang
 
-===HERE===
-
-
 ------------- Bab 23 ------------
-kimasu		memakai(kemeja, atasan)
-hakimasu	memakai(sepatu, celana)
-kaburimasu	memakai(topi)
-kakemasu	memakai(kacamata)
-shimasu		memakai(dasi)
-umaremasu	lahir
+着ます		きます		memakai(kemeja, atasan)
+履きます	はきます	memakai(sepatu, celana)
+被ります	かぶります	memakai(topi)
+掛けます	かけます	memakai(kacamata)
+します		memakai(dasi)
+生まれます	うまれます	lahir
 
-watashitachi	kami, kita
-ko-to		mantel
-seetaa		sweater, baju hangat
-suutsu		pakaian setelan
-boushi		topi
-megane		kacamata
-keeki		kue
-[o]bentou	bekal
-robotto		robot
-yuumoa		humor
-tsugou		kondisi
-yoku		seringkali
-eeto		itu...
-omedetou[gozaimasu]	selamat(digunakan untuk hari ulang tahun, upacara pernikahan, dan tahun baru, dll)
-osagashidesuka	mencari apa?
-dewa		kalau begitu
-kochira		ini (formal これ)
+私達		わたしたち	kami, kita
+コート		mantel
+セーター	sweater, baju hangat
+スウツ		pakaian setelan
+帽子		ぼうし		topi
+眼鏡		めがね		kacamata
+ケーキ		kue
+[お]弁当	[お]べんとう	bekal
+ロボット	robot
+ユーモア	humor
+都合		つごう		kondisi
+良く		よく		seringkali
+ええと		itu...
+お目出度う[ございます]	おめでとう[ございます]	selamat(digunakan untuk hari ulang tahun, upacara pernikahan, dan tahun baru, dll)
+お探しですか	おさがしですか	mencari apa?
+でわ		kalau begitu
+こちら		ini (formal これ)
 
-yachin		biaya sewa rumah
-dainingukicchin	ruang makan dengan dapur
-washitsu	kamar ala jepang
-oshiire		lemari dinding ala jepang
-futon		selimut dan kasur berisi kapas ala jepang
-
-
-
-
-
-
-
-
-
+家賃		やちん		biaya sewa rumah
+ダイニングキッチン		ruang makan dengan dapur
+和室		わしつ		kamar ala jepang
+押入れ		おしいれ	lemari dinding ala jepang
+布団		ふとん		selimut dan kasur berisi kapas ala jepang
 
 
 ------------- Bab 24 ------------
-kikimasu	bertanya (sensei ni kikimasu : bertanya kepada guru)
-mawashimasu	memutar
-hikimasu	tarik
-kaemasu		mengubah
-sawarimasu	menyentuh
-demasu		keluar
-otsuri		kembalian
-arukimasu	berjalan kaki
-watarimasu	menyeberang
-magarimasu	belok
-sabishii	sepi
-mura		desa
-hashi		jembatan
-[o]yu		air panas
-oto		suara, bunyi
-saizu		ukuran
+聴きます	ききます	bertanya (sensei ni kikimasu : bertanya kepada guru)
+回します	まわします	memutar
+引きます	ひきます	tarik
+変えます	かえます	mengubah
+触ります	さわります	menyentuh
+出ます		でます		keluar
+お釣り		おつり		kembalian
+歩きます	あるきます	berjalan kaki
+渡ります	わたります	menyeberang
+曲がります	まがります	belok
+寂しい		さびしい	sepi
+村		むら		desa
+橋		はし		jembatan
+[お]湯		[お]ゆ		air panas
+音		おと		suara, bunyi
+サイズ		ukuran
 
-kosyou		kerusakan (~shimasu : rusak)
-michi		jalan
-kousaten	perempatan
-shingou		lampu lalu lintas
-kado		sudut
-hashi		jembatan
-cyuusyajyou	tempat parkir
-tatemono	gedung
-nankaimo	berkali-kali
-~me		yang ke~ (mengungkapkan urutan)
-
-
-
-
+故障		こしょう	kerusakan (~shimasu : rusak)
+道		みち		jalan
+交差点		こうさてん	perempatan
+信号		しんごう	lampu lalu lintas
+角		かど		sudut
+橋		はし		jembatan
+駐車場		ちゅうしゃじょう	tempat parkir
+建物		たてもの	gedung
+何回も		なんかいも	berkali-kali
+～め		yang ke~ (mengungkapkan urutan)
 
 
 ------------- Bab 25 ------------
-kuremasu	memberikan (orang lain)
-naoshimasu	mengoreksi
-tsureteikimasu	membawa, mengajak pergi
-tsuretekimasu	membawa datang, mengajak datang
-okurimasu	mengantar (hito wo okurimasu : mengantar orang)
-syoukaishimasu	memperkenalkan
-annaishimasu	mengantarkan
-setsumeishimasu	menjelaskan, menerangkan
+呉れます	くれます	memberikan (orang lain)
+直します	なおします	mengoreksi
+連れていきます	つれていきます	membawa, mengajak pergi
+連れてきます	つれてきます	membawa datang, mengajak datang
+送ります	おくりまう	mengantar (hito wo okurimasu : mengantar orang)
+紹介します	しょうかいします	memperkenalkan
+案内します	あんないします		mengantarkan
+説明します	せつめいします		menjelaskan, menerangkan
 
-ojiisan		kakek
-ojiichan	kakek
-obaasan		nenek
-obaachan	nenek
-junbi		persiapan (~wo shimasu : mempersiapkan)
-hikkoshi	pindah rumah (~wo shimasu : pindah, memindahkan)
-okashi		camilan, snack
-hoomusutei	homestay
-zenbu		semua
-jibunde		dengan sendiri
-hokani		selain, yang lain
-
-
-
-
-
-
-
+お祖父さん	おじいさん	kakek
+お祖父ちゃん	おじいちゃん	kakek
+お祖母さん	おばあさん	nenek
+お祖母ちゃん	おばあちゃん	nenek
+準備		じゅんび		persiapan (~wo shimasu : mempersiapkan)
+引っ越し	ひっこし	pindah rumah (~wo shimasu : pindah, memindahkan)
+お菓子		おかし		camilan, snack
+ホームステイ	homestay
+全部		ぜんぶ		semua
+自分で		じぶんで	dengan sendiri
+他に		ほかに		selain, yang lain
 
 
 ------------- Bab 26 ------------
-kangaemasu	berpikir
-tsukimasu	tiba, sampai
-toshi wo torimasu	berumur, lanjut usia
-tarimasu	cukup
-inaka		desa, kampung halaman
-chansu		kesempatan
-oku		ratus juta
-moshi[-tara]	kalau
+考えます	かんがえます	berpikir
+着きます	つきます	tiba, sampai
+年を取ります	としをとります 	berumur, lanjut usia
+足ります	たります	cukup
+田舎		いなか		desa, kampung halaman
+チャンス	kesempatan
+億		おく		ratus juta
+もし[～たら]	kalau
 
-imi		arti, makna
-moshimoshi	halo (saat menelepon)
-tenkin		pindah ke kantor cabang lain atau jabatan lain
-koto		hal (~no koto : hal ~)
-hima[na]	waktu luang
-ganbarimasu	berusaha, bekerja keras
-douzo ogenkide	semoga sehat selalu (digunakan ketika perpisahan dalam jangka waktu lama)
-iroiro osewaninarimashita	terima kasih banyak atas bantuan anda yang telah anda berikan
+意味		いみ		arti, makna
+もしもし	halo (saat menelepon)
+転勤		てんきん	pindah ke kantor cabang lain atau jabatan lain
+事		こと		hal (~no koto : hal ~)
+暇[な]		ひま[な]	waktu luang
+頑張ります	がんばります	berusaha, bekerja keras
+どうぞお元気で		どうぞおげんきで	semoga sehat selalu (digunakan ketika perpisahan dalam jangka waktu lama)
+色色お世話に鳴りました		いろいろおせわになりました	terima kasih banyak atas bantuan anda yang telah anda berikan
 
 
 
