@@ -1,5 +1,6 @@
-Japanese	Indonesia
-=========================
+Japanese			Indonesia
+日本				インドネシア
+===============================================================================================
 
 ------------- Bab 2  ------------
 私		saya, aku
@@ -161,7 +162,7 @@ Japanese	Indonesia
 ロビー		lobi, ruang tunggu
 部屋		へや		kamar
 トイレ		toilet, wc, kamar kecil
-おてあらい	toilet (sopan)
+お手洗い	おてあらい	toilet (sopan)
 
 階段		かいだん	tangga
 エレベーター	elevator, lift
