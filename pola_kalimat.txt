@@ -44,33 +44,33 @@
 
 +++++++++++++++++++++++ Bab 20 +++++++++++++++++++++++
 ========== KK Group 1 ========
-masu kei	|	ta kei
+ます形	 	|	た形	
 ==============================
-ki		|	ita
-ikimasu		|	*itta
-gi		|	ida
-mi		|	nda
-bi		|	nda
-ri		|	tta
-i		|	tta
-chi		|	tta
-shi		|	shita
+き		|	いた
+行きます	|	*いった
+ぎ		|	いだ
+み		|	んだ
+び		|	んだ
+り		|	った
+い		|	った
+ち		|	った
+し		|	した
 
 
 
 ========== KK Group 2 ========
-masu kei	|	ta kei
+ます形	 	|	た形	
 ==============================
-nemasu		|	neta
-tabemasu	|	tabeta
+ねます		|	ねた
+たべます	|	たべた
 
 
 
 ========== KK Group 3 ========
-masu kei	|	ta kei
+ます形	 	|	た形	
 ==============================
-shimasu		|	shita
-kimasu		|	kita
+します		|	した
+きます		|	きた
 
 
 
@@ -117,39 +117,39 @@ Perbedaan dengan penggunaan てadalah て untuk kegiatan yang urut dan cenderung
 
 	   Kata Kerja
 ==================================
-teinei 形	|	futsuu 形
+丁寧 形		|	普通 形
 ==================================
-kakimasu	|	kaku
-kakimasen	|	kakanai
-kakimashita	|	kaita
-kakimasendeshita|	kakanakatta
+かきます	|	かく
+かきません	|	かかない
+かきました	|	かいた
+かきませんでした|	かかなかった
 
-arimasu		|	aru
-arimasen	|	*nai
-arimashita	|	atta
-arimasendeshita	|	nakatta
+あります	|	ある
+ありません	|	*ない
+ありました	|	あった
+ありませんでした|	なかった
 
 
 	   Kata Sifat
 ==================================
-teinei 形	|	futsuu 形
+丁寧 形			|	普通 形
 ==================================
-KS いです	|	KS い	
-KS なです	|	KS なだ
-kireidesu	|	kiraida
-kireijyaarimasen|	kireijyanai
-kireideshita	|	kireidatta
-~arimasendeshita|	~nakatta
+KS いです		|	KS い	
+KS なです		|	KS なだ
+きれいです		|	きれいだ
+きれいじゃありません	|	きれいじゃない
+きれいでした		|	きれいだった
+～ありませんでした	|	～なかった
 
 
 	   Kata Benda
 ==================================
-teinei 形	|	futsuu 形
+丁寧 形		|	普通 形
 ==================================
-ameです		|	ameだ	
-~jyaarimasen	|	~jyanai
-ameですた	|	ameだった
-~arimasendeshita|	~nakatta
+雨です		|	雨だ	
+～じゃありません|	じゃない
+雨ですた	|	雨だった
+～ありませんでした|	～なかった
 
 
 
@@ -159,7 +159,7 @@ ameですた	|	ameだった
 
 ======== Menurut Saya ========
 ------------------------------------------------------
-| Bentuk Biasa と 思います(omoimasu) (saya kira ...) |
+| Bentuk Biasa と 思います(おもいます) (saya kira ...) |
 ------------------------------------------------------
 isi pikiran dan keputusan ditunjukan dengan partikel と.
 
@@ -171,7 +171,7 @@ besok sepertinya turun hujan
 jika menanyakan pendapat tidak menggunakan と.
 ... どう 思いますか 。
 jika menyatakan pendapat setuju dapat menggunakan
-私 も sou  思います
+私 も そう  思います
 
 
 
@@ -179,7 +179,7 @@ jika menyatakan pendapat setuju dapat menggunakan
 
 ======== Menyampaikan perkataan orang lain ========
 --------------------------------------------------------------
-| Bentuk biasa + と 言います (iimasu) (mengatakan bahwa ...) |
+| Bentuk biasa + と 言います (いいます) (mengatakan bahwa ...) |
 --------------------------------------------------------------
 
 
@@ -192,7 +192,7 @@ jika menyatakan pendapat setuju dapat menggunakan
 -----------------------------------------
 | Bentuk biasa + でしょう (..., bukan?) |
 -----------------------------------------
-
+-> この車が大きいでしょう。
 
 
 
