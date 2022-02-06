@@ -1,4 +1,5 @@
 ----------------------- N5 --------------------------
++++++++++++++++++++++++ Bab 2 +++++++++++++++++++++++
 ======= Pernyataan Positif  ==========
 ----------------------
 | S + は + KB + です |
@@ -52,6 +53,7 @@ partikel の menunjukkan KB2 adalah milik KB1.
 -> 田中さんは27歳（はたちなな）です。
 	
 
++++++++++++++++++++++++ Bab 3 +++++++++++++++++++++++
 ======= Menunjuk Benda (ini dan itu)  ==========
 -----------------------------------
 | これ/それ/あれ + は + KB + です |
@@ -105,6 +107,7 @@ partikel の menunjukkan KB2 adalah milik KB1.
 -> その車はお母さん(おかあさん)のです。
 
 
++++++++++++++++++++++++ Bab 4 +++++++++++++++++++++++
 ======= Menunjukkan tempat disini dan disana  ==========
 -----------------------------------------
 | ここ/そこ/あそこ + は + TEMPAT + です |
@@ -168,6 +171,7 @@ partikel の menunjukkan KB2 adalah milik KB1.
 
 
 
++++++++++++++++++++++++ Bab 5 +++++++++++++++++++++++
 ======= Menyatakan waktu sekarang / menanyakan ==========
 ------------------------------------------------
 | 今は + WAKTU + です/ですか |
@@ -246,6 +250,7 @@ digunakan saat mengharapkan persetujuan dari lawan bicara
 
 
 
++++++++++++++++++++++++ Bab 6 +++++++++++++++++++++++
 ======= Menuju ke suatu tempat ==========
 ----------------------------------------------
 | S + は + TEMPAT + へ + 行きます（いきます）/ 来ます（きます）/ 帰ります（かえります） |
@@ -319,6 +324,7 @@ digunakan untuk menyampaikan tanggapan atau pendapat si pembicara kepada lawan b
 
 
 
++++++++++++++++++++++++ Bab 7 +++++++++++++++++++++++
 ======= Menunjukkan suatu objek ==========
 -------------------------
 | S + は + KB + を + KK |
@@ -374,6 +380,7 @@ biasa digunakan untuk mengubah pernyataan menjadi bentuk tanya. Selain itu, ～�
 
 
 
++++++++++++++++++++++++ Bab 8 +++++++++++++++++++++++
 ======= Mengucapkan suatu kata dalam bahasa lain ==========
 ----------------------------------------------------------
 | Kata/ungkapan/kalimat + は + ～語（ご）+ で + 何ですか |
