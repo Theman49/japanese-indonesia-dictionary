@@ -960,7 +960,7 @@ pola kalimat ini dipakai jika meminta atau memerintah lawan bicara supaya tidak 
 | Bentuk Kamus + が できます (bisa ...) |
 ----------------------------------------------
 
-=> ミラ さん は 日本語 が できます
+=> ミラ さん は 日本語（にほんご） が できます
 
 
 
@@ -968,11 +968,11 @@ pola kalimat ini dipakai jika meminta atau memerintah lawan bicara supaya tidak 
 
 ======= Hobi saya adalah  ==========
 ---------------------------------------------------------
-| 私 の 趣味 は + KB 			+	 です	|
+| 私 の 趣味 （しゅみ）は + KB 		+	 です	|
 | 		+ KK Bentuk Kamus こと 	+		|
 ---------------------------------------------------------
 
-=> 私 の 趣味 は 音楽 です
+=> 私 の 趣味（しゅみ） は 音楽（おんがく） です
 
 
 
@@ -980,13 +980,13 @@ pola kalimat ini dipakai jika meminta atau memerintah lawan bicara supaya tidak 
 
 
 ======= Sebelum ... Melakukan ...  ==========
------------------------------------------
-| KB の 		 +  		|
-| KK1 Bentuk Kamus 	 + 前 に, KK2	|
-| KKet bil(jangka waktu) +		|
------------------------------------------
+-------------------------------------------------
+| KB の 		 +  			|
+| KK1 Bentuk Kamus 	 + 前 （まえ）に, KK2	|
+| KKet bil(jangka waktu) +			|
+-------------------------------------------------
 
-=> 日本 へ 来る 前に、 日本ご を 勉強しますた
+=> 日本 （にほん）へ 来る（きる） 前（まえ）に、 日本語（にほんご） を 勉強（べんきょう）しますた
 
 
 
@@ -1011,6 +1011,7 @@ pola kalimat ini dipakai jika meminta atau memerintah lawan bicara supaya tidak 
 い		|	った
 ち		|	った
 し		|	した
+==============================
 
 
 
@@ -1019,6 +1020,7 @@ pola kalimat ini dipakai jika meminta atau memerintah lawan bicara supaya tidak 
 ==============================
 ねます		|	ねた
 たべます	|	たべた
+==============================
 
 
 
@@ -1027,6 +1029,7 @@ pola kalimat ini dipakai jika meminta atau memerintah lawan bicara supaya tidak 
 ==============================
 します		|	した
 きます		|	きた
+==============================
 
 
 
@@ -1037,7 +1040,7 @@ pola kalimat ini dipakai jika meminta atau memerintah lawan bicara supaya tidak 
 | KK Bentuk た + こと が あります。(Pernah ...)  |
 --------------------------------------------------
 
-=> 日本 に 行った こと が あります。
+=> 日本 （にほん）に 行った（いった） こと が あります。
 
 
 
@@ -1047,8 +1050,8 @@ pola kalimat ini dipakai jika meminta atau memerintah lawan bicara supaya tidak 
 --------------------------------------------
 Perbedaan dengan penggunaan てadalah て untuk kegiatan yang urut dan cenderung aktivitas rutin.
 
-=> 日 曜日 は テニス を したり、 映画 を 見たりします。 
-=> 日 曜日 は テニス を したり、 映画 を 見たりしますた。(Bentuk Lampau) 
+=> 日 曜日 （にちようび）は テニス を したり、 映画（えいが） を 見（み）たりします。 
+=> 日 曜日 （にちようび）は テニス を したり、 映画（えいが） を 見たりしますた。(Bentuk Lampau) 
 
 
 ======= Telah Menjadi  ==========
@@ -1058,7 +1061,7 @@ Perbedaan dengan penggunaan てadalah て untuk kegiatan yang urut dan cenderung
 | KB に			 + (telah menjadi...)	|
 -------------------------------------------------
 
-=> 元気 に なりますた。
+=> 元気（げんき） に なりますた。
 
 
 
@@ -1084,6 +1087,7 @@ Perbedaan dengan penggunaan てadalah て untuk kegiatan yang urut dan cenderung
 ありません	|	*ない
 ありました	|	あった
 ありませんでした|	なかった
+==================================
 
 
 	   Kata Sifat
@@ -1096,6 +1100,7 @@ KS なです		|	KS なだ
 きれいじゃありません	|	きれいじゃない
 きれいでした		|	きれいだった
 ～ありませんでした	|	～なかった
+==================================
 
 
 	   Kata Benda
@@ -1106,6 +1111,7 @@ KS なです		|	KS なだ
 ～じゃありません|	じゃない
 雨ですた	|	雨だった
 ～ありませんでした|	～なかった
+==================================
 
 
 
@@ -1121,7 +1127,7 @@ isi pikiran dan keputusan ditunjukan dengan partikel と.
 
 contoh :
 Menyatakan dugaan	
-明日 雨 が 降ると 思います		
+明日（あした） 雨（あめ） が 降る（ふる）と 思います		
 besok sepertinya turun hujan
 
 jika menanyakan pendapat tidak menggunakan と.
@@ -1148,7 +1154,7 @@ jika menyatakan pendapat setuju dapat menggunakan
 -----------------------------------------
 | Bentuk biasa + でしょう (..., bukan?) |
 -----------------------------------------
--> この車が大きいでしょう。
+-> この車（くるま）が大きい（おおきい）でしょう。
 
 
 
@@ -1162,7 +1168,7 @@ jika menyatakan pendapat setuju dapat menggunakan
 | S + は + KK(普通 形) + KB + を + KK  |
 ----------------------------------------
 
-=> 彼 は 話す人 を 聞きます。
+=> 彼（かれ） は 話す人（はなすひと） を 聞きます（ききます）。
 
 
 
@@ -1174,7 +1180,7 @@ jika menyatakan pendapat setuju dapat menggunakan
 | S + は + KK(普通 形) + KB + が + KK/KS  |
 -------------------------------------------
 
-=> この 人 は みんな が 話す 英語 が わかりません。
+=> この 人 は みんな が 話す（はなす） 英語（えいご） が わかりません。
 
 
 
@@ -1209,8 +1215,8 @@ jika menyatakan pendapat setuju dapat menggunakan
 | KK Kamus + と, ~(kalimat pokok)  |
 ------------------------------------
 
-=> この ボタン を 押すと、 お釣り が 出ます。
-=> これを 回すと、 音 が 大き くなります。
+=> この ボタン を 押す（おす）と、 お釣り（おつり） が 出ます（でます）。
+=> これを 回す（まわす）と、 音（おと） が 大き（おおき） くなります。
 
 
 
@@ -1227,7 +1233,7 @@ jika menyatakan pendapat setuju dapat menggunakan
 | ~ くれます |
 --------------
 
-=> 砂糖 さん は 妹 に お菓子 を くれました。
+=> 砂糖（さとう） さん は 妹（いもうと） に お菓子（おかし） を くれました。
 
 
 
@@ -1242,9 +1248,9 @@ jika menyatakan pendapat setuju dapat menggunakan
 | 		+ くれます    |
 ------------------------------------------
 
-=> 私 は 木村 さん に 本 を 貸して あげます。
-=> 私 は 山田 さん に 図書館 の 電話 番号 を 教えて もらいました。
-=> 母 は 私 に セーター を 送って くれました。
+=> 私 は 木村 さん に 本（ほん） を 貸して（かして） あげます。
+=> 私 は 山田 （やまだ）さん に 図書館（としょかん） の 電話（でんわ） 番号 を 教えて もらいました。
+=> 母 は 私 に セーター を 送って（おくって） くれました。
 
 
 
@@ -1266,8 +1272,8 @@ belum ada rencana :
 ~ら disini berfungsi sebagai kata sambung untuk persyaratan. Jika ... Maka ...
 
 
-=> お金があったら、 旅行します。
-=> 時間がなかったら、テレビを見ません。
+=> お金（おかね）があったら、 旅行します。
+=> 時間（じかん）がなかったら、テレビを見（み）ません。
 
 
 
@@ -1298,9 +1304,9 @@ sudah ada rencana :
 ----------------------------------------------------
 ini adalah kalimat berasumsi, yang disusul dengan bentuk ても(kalimat pokok), menunjukkan bahwa kegiatan yang dilakukan bisa diduga atau tidak terduga.
 
-=> 雨 が 振っても、洗濯 します。
-=> 安くても、 私わグループ 旅行 が 嫌いです。
-=> 日曜日でも、 働きます。
+=> 雨 が 降って（ふって）も、洗濯（せんたく） します。
+=> 安（やす）くても、 私はグループ 旅行（りょこう） が 嫌い（きらい）です。
+=> 日曜日（にちようび）でも、 働（はたら）きます。
 
 
 
@@ -1315,22 +1321,22 @@ ini adalah kalimat berasumsi, yang disusul dengan bentuk ても(kalimat pokok), 
 
 ============== Menekankan alasan  ==========
 ------------------------------------------------
-	| futsukei + ん + です  |
+	| 普通（ふつう）形 + ん + です  |
 ------------------------------------------------
 digunakan untuk menekankan suatu alasan, dipakai dalam bahasa lisan, jika dalam bahasa tertulis bentuknya ~のです。
 
--> 。。。ちょっと 気分 が 悪い んです。
--> 雨　が　降っている　んです。
+-> 。。。ちょっと 気分（きぶん） が 悪い（わるい） んです。
+-> 雨（あめ）　が　降って（ふって）いる　んです。
 -> どこで　かった　んですか。
 
 
 ============== Memberikan Alasan Atas Akibat  ==========
 ------------------------------------------------
-	| tekei + いただけませんか  |
+	| て形 + いただけませんか  |
 ------------------------------------------------
-ungkapan yang lebih sopan dari ~てくだっさい
+ungkapan yang lebih sopan dari ~てください
 
--> パソコンを見ていただけませんか。
+-> パソコンを見（み）ていただけませんか。
 
 
 ------------------------------------------------
@@ -1339,7 +1345,7 @@ ungkapan yang lebih sopan dari ~てくだっさい
 ungkapan untuk meminta masukan atau petunjuk
 
 -> どうしたらいいですか。
--> どこでカメラを買ったらいいですか。
+-> どこでカメラを買（か）ったらいいですか。
 -> このごみを出したらいいですか。
 
 
@@ -1348,7 +1354,7 @@ ungkapan untuk meminta masukan atau petunjuk
 ============== Cara Mengungkapkan Kemampuan  ==========
 
 丁寧形　=　ていねいけい
-可能形	=　かのうけい
+可能形	=　かのうけい -> digunakan untuk mengungkapkan kemampuan
 
 	KK Group 1
 ===================================
@@ -1384,17 +1390,17 @@ ungkapan untuk meminta masukan atau petunjuk
 ===================================
 
 -> 私は日本語がはなせます。
-->　漢字が読めます。
-->　一人で病院へいけますか。
+->　漢字（かんじ）が読め（よめ）ます。
+->　一人で（ひとりで）病院（びょういん）へいけますか。
 
 
 ============== Menyatakan terlihat, terdengar, jadi  ==========
 ------------------------------------------------
-| が + 見えます、聞こえます、できますた |
+| が + 見（み）えます、聞（き）こえます、できますた |
 ------------------------------------------------
 dengan tidak sengaja mengatakan suatu objek yang dapat ditangkap di dalam wawasan secara alami. Tidak dapat digunakan untuk hal yang memperhatikan secara sengaja
 
-->　そこから後ろ聞こえません。
+->　そこから後ろ（うしろ）まで聞こえません。
 ->　ここから花火大会（たいかい）が見えます。
 ->　時計の修理（しゅうり）はできますか。
 
@@ -1403,9 +1409,9 @@ dengan tidak sengaja mengatakan suatu objek yang dapat ditangkap di dalam wawasa
 ============== Cara Membandingkan Kelebihan dan Kekurangan  ==========
 selain menyatakan topik, は berfungsi untuk menyatakan perbandingan
 
--> 昨日は山が見えますたが、今日は見えません。
-->　海は好きですが、山が好きじゃありません。
-->　サッカーは好きですが、野球は好きじゃありません。
+-> 昨日（きのう）は山（やま）が見えますたが、今日（きょう）は見えません。
+->　海（うみ）は好き（すき）ですが、山（やま）が好き（すき）じゃありません。
+->　サッカーは好き（すき）ですが、野球（やきゅう）は好き（すき）じゃありません。
 
 
 
@@ -1417,11 +1423,11 @@ selain menyatakan topik, は berfungsi untuk menyatakan perbandingan
 ------------------------------------------------
 	| ます形　＋　ながら。。。 |
 ------------------------------------------------
-ketika pelaku yang sama melakukan aksi 2 dan aksi 1 secara bersamaa. Kata Kerja 2 yang merupakan aksi utama.
+ketika pelaku yang sama melakukan aksi 2 dan aksi 1 secara bersama. Kata Kerja 2 yang merupakan aksi utama.
 
--> 音楽を聞きながら食事します。(makan sambil mendengarkan lagu)
--> 働きながら日本語を勉強しています。
--> 本を読みながらバスを待っていました。
+-> 音楽（おんがく）を聞（き）きながら食事（しょくじ）します。(makan sambil mendengarkan lagu)
+-> 働（はたら）きながら日本語を勉強しています。
+-> 本（ほん）を読み（よみ）ながらバスを待って（まって）いました。
 
 
 
@@ -1432,21 +1438,21 @@ ketika pelaku yang sama melakukan aksi 2 dan aksi 1 secara bersamaa. Kata Kerja 
 ------------------------------------------------
 ketika menyatakan perbuatan yang berulang kali sebagai kebiasaan. Jika perbuatan tersebut dilakukan pada masa lampau sebelum titik ucapannya bentukknya menjadi ていました。
 
--> 毎朝ジョギングをしています。
--> 子供の時、毎晩8時に寝ていました。
+-> 毎朝（まいあさ）ジョギングをしています。
+-> 子供（こども）の時（とき）、毎晩（まいばん）8時に寝（ね）ていました。
 -> いつもここでたべています。
 
 
 
 ============== Menyatakan Kelebihan Seseorang serta alasan dalam memilih suatu hal  ==========
 ------------------------------------------------
-	| 普通形　＋　し。。。 |
+	| 普通（ふつう）形　＋　し。。。 |
 ------------------------------------------------
 digunakan jika menjelaskan lebih dari dua hal yang mirip mengenai topik dengan setaraf
 
--> 鈴木さんはピアノも弾けるし、歌も歌えるし、ダンスもできます。
--> 田中さんはまじめだし、中国語も上手だし、経験もあります。
--> ここは値段も安いし、魚も新しいし、よくたべに行きます。
+-> 鈴木さんはピアノも弾ける（ひける）し、歌（うた）も歌える（うたえる）し、ダンスもできます。
+-> 田中（たなか）さんはまじめだし、中国語（ちゅうごくご）も上手（じょうず）だし、経験もあります。
+-> ここは値段も安いし、魚（さかな）も新しい（あたらしい）し、よくたべに行きます。
 
 
 

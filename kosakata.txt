@@ -1042,7 +1042,7 @@ Japanese			Indonesia
 登ります	のぼります	naik (gunung)
 留まります	とまります	menginap(di hotel)
 掃除します	そうじします	membersihkan
-選択します	せんたくします	mencuci pakaian
+洗濯します	せんたくします	mencuci pakaian
 なります	menjadi
 眠い		ねむい		mengantuk
 強い		つよい		kuat
