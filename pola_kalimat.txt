@@ -1406,6 +1406,15 @@ dengan tidak sengaja mengatakan suatu objek yang dapat ditangkap di dalam wawasa
 
 
 
+============== Saya Hanya ... （しか + KK Negatif)  ==========
+しか dibubuhkan pada Kata Benda atau Kata keterangan Bilangan, dan selalu digunakan dengan menyertakan kata bentuk negatif. Mengangkat kata yand dibutuhkan しか, dan menyangkal semua kata yang lain. Jika dibubuhkan pada Kata Benda yang dibubuhkan が atau を、が atau を dihilangkan. Untuk selain kata tersebut, langsung dibubuhkan di belakangnya. しか bernuansa tidak sempurna.
+
+-> ひらがなしか書（か）けません。
+-> 日本語（にほんご）しかできません。
+-> これしか食べません。 
+
+
+
 ============== Cara Membandingkan Kelebihan dan Kekurangan  ==========
 selain menyatakan topik, は berfungsi untuk menyatakan perbandingan
 
