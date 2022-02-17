@@ -1182,8 +1182,7 @@ Japanese			Indonesia
 出ます		でます		keluar
 お釣り		おつり		kembalian
 歩きます	あるきます	berjalan kaki
-渡ります	わたります	menyeberang
-曲がります	まがります	belok
+渡ります	わたります	menyeberang 曲がります	まがります	belok
 寂しい		さびしい	sepi
 村		むら		desa
 橋		はし		jembatan
@@ -1496,9 +1495,43 @@ Japanese			Indonesia
 
 
 
+------------- Bab 6 ------------
+続ける		つづける	untuk melanjutkan
+見つける	みつける	untuk menemukan
+取ります	とります	untuk mengambil
+受ける		うける		untuk menerima
+申し込む	もうしこむ	untuk apply
+休憩		きゅうけい	istirahat
 
 
+連休		れんきゅう	liburan berturut-turut
+作文		さくぶん	karangan
+発表		はっぴょう	pengumuman, presentasi
+展覧会		てんらんかい	pameran
+結婚式		けっこんしき	upacara pernikahan
+葬式		そうしき	upacara kematian
 
+式		しき		upacara
+本社		ほんしゃ	kantor pusat
+支店		してん		toko cabang
+教会		きょうかい	gereja
+大学院		だいがくいん	S2
+動物園		どうぶつえん	kebun binatang
+
+温泉		おんせん	sumber air panas
+帰り		かえり		kembali
+お子さん	おこさん	anak (orang lain)
+号		ごう		edisi
+
+ずっと		terus
+残ります	のこります	tinggal, tersisa
+入学試験	にゅうがくしけん	ujian masuk sekolah
+月に		つきに		dalam sebulan
+村		むら		desa, kampung
+卒業します	そつぎょうします	lulus, tamat
+映画館		えいがかん	bioskop
+閉じます	とじます	menutup
+都会		とかい		kota besar
 
 
 
