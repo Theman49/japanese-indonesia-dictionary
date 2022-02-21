@@ -1535,6 +1535,116 @@ Japanese			Indonesia
 
 
 
+------------- Bab 7 ------------
+成功します	せいこうします	berhasil
+失敗します	しっぱいします	gagal
+合格します	ごうかくします	lulus
+晴れます	はれます	cerah
+曇ります	くもります	mendung
+無理をします	むりをします	memaksakan diri
+
+太陽		たいよう	matahari
+水道		すいどう	Air PAM
+夕方		ゆうがた	sore
+元気		げんき		sehat
+健康		けんこう	kesehatan
+恋愛		れんあい	asmara
+
+運動します	うんどうします	olahraga
+やみます	berhenti
+続きます	づきます	berlanjut	
+冷やします	ひやします	mendinginkan
+込みます	こみます	penuh, macet
+空きます	すきます	kosong
+空きます	あきます	kosong
+十分「な」	じゅうぶん	cukup
+おかしい	aneh, menarik
+うるさい	berisik
+火傷		やけど		luka bakar
+怪我		けが		luka
+せき		batuk
+インフルエンザ	influenza
+星		ほし		bintang
+風		かぜ		angin
+東		ひがし		timur
+西		にし		barat
+南		みなみ		selatan
+北		きた		utara
+国際		こくさい	internasional
+チーム		tim
+エンジン	mesin
+遅く		おそく		kemalaman, larut malam
+ヨーロッパ	eropa
+胃		い		lambung, perut
+ストレス	stres
+星占い		ほしうらない	ramalan bintang, horoskop
+困ります	こまります	bingung, bermasalah
+宝くじ		たからくじ	lotre
+恋人		こいびと	pacar
+石		いし		batu
+
+
+
+------------- Bab 8 ------------
+逃げます	にげます	berlari, kabur
+騒ぎます	さわぎます	menghebohkan, membuat kebisingan, ribut
+あきらめます	menyerah
+投げます	なげます	melempar
+守ります	まもります	menjaga
+始まります	はじまります	dimulai
+出席します	しゅっせきします	hadir
+
+伝えます	つたえます	menyampaikan
+注意します	ちゅういします	berhati-hati
+外します	はずします	meninggalkan(tempat)
+戻ります	もどります	kembali
+だめ「な」	tidak baik
+同じ		おなじ		sama
+
+警察		けいさつ	polisi
+席		せき		tempat duduk, kursi
+マーク		tanda
+ボール		bola
+締め切りり	しめきり	penutupan
+よどおし	shift malam
+規則		きそく		peraturan
+
+危険		きけん		bahaya
+使用禁止	しようきんし	dilarang pakai
+立入禁止	たちいりきんし	dilarang masuk
+徐行		じょこう	berjalan lambat
+入口		いりぐち	pintu masuk
+出口		でぐち		pintu keluar
+非常口		ひじょうぐち	pintu darurat
+
+無料		むりょう	gratis
+割引		わりびき	diskon
+飲み放題	のみほうだい	minum sepuasnya
+使用中		しようちゅう	sedang dipakai
+募集中		ぼしゅうちゅう	sedang dicari
+~中		～ちゅう	sedang~
+どういう～	bagaimana~
+いくら「～ても」		bagaimana, seberapa~ pun
+もう		lagi (digunakan bersama dengan bentuk negatif)
+あと～		sisa~
+～ほど		kira-kira~
+
+リサイクルします		mendaur ulang
+罰金		ばっきん	denda
+駐車違反	ちゅうしゃいはん	pelanggaran parkir
+地震		じしん		gempa bumi
+助け合います	たすけあいます	saling menolong, bantu-membantu
+もともと	memang, pada awalnya
+悲しい		かなしい	sedih
+もっと		lebih
+あいさつ	salam
+相手		あいて		pasangan, kawan
+
+
+
+
+
+
 
 
 ------------ OTHER -------------
