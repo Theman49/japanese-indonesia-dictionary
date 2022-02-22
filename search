@@ -1,0 +1,3 @@
+#!/bin/bash
+word=$1
+cat kosakata.txt | grep $word | tr "\t" "_"
