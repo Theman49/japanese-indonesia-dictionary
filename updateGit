@@ -1,5 +1,5 @@
 #!/bin/bash
-cat /home/cakdeny49/Documents/token_github.txt
+cat ~/Github/token.txt
 git add .
 git commit -m "$1"
 git push
